@@ -134,6 +134,37 @@ export default class Home extends Vue {
     super()
     this.speakersList = 
     [
+    {
+    name: '',
+    institution: '',
+    speaking: '',
+    description: ``,
+    subjectResume: ``,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+  {
+    name: '',
+    institution: '',
+    speaking: '',
+    description: ``,
+    subjectResume: ``,
+    img: '',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+
+      /*
       {
     name: 'Me. Alberto Vilela Chaer',
     institution: 'PUC Goiás',
@@ -194,21 +225,6 @@ export default class Home extends Vue {
       place: 'Presencial: Hall de entrada da Área III'
     }
   },
-
-  /*{
-    name: 'Jefferson Lins',
-    institution: 'Universidade de São Paulo',
-    speaking: 'Geossintéticos aplicados a Engenharia Civil.',
-    description: `Professor Associado da USP, Depto. de Geotecnia da EESC. Graduado em Engenheiro Civil - UFAL (2004), Mestre em Geotecnia - EESC/USP (2006), Doutor em Eng. Civil (Eng. de Estruturas) - EESC/USP (2011) com período sanduíche na University of Nebraska-Lincoln - EUA (2010). Pós-Doutor em Eng. Civil pela EESC/USP (2013) e pela Universidade do Porto - Portugal (2017). Livre-docente em Geotecnia pelo SGS-EESC-USP (2019). Leciona para os cursos de graduação em Engenharia Civil e Engenharia Ambiental sobre temas relacionados à Mecânica dos solos e Geossintéticos. É professor permanente no Programa de Pós-Graduação em Geotecnia e no Programa de Pós-graduação em Engenharia de Transportes, ambos na EESC/USP. Responsável pelo Laboratório de Geossintéticos da EESC/USP. Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. Coordenador da Comissão de Estudo Especial de Geossintéticos da Associação Brasileira de Normas Técnicas (ABNT) de 2014 a 2020. Parecerista de agências de fomento e de congressos e revistas nacionais e internacionais. Membro de sociedades de cunho científico e tecnológico, cultural e profissional: ABMS, ANPET, IGS e ABRATEC.`,
-    subjectResume: `Geossintéticos aplicados a Engenharia Civil.`,
-    img: '/assets/img/speakers/jeffersonlins.jpg',
-    customSize: '100%',
-    datentime: {
-      date: '09/05',
-      time: '19:00 - 20:30',
-      place: 'Online: A definir'
-    }
-  },*/
  
   {
     name: 'André Luiz Dias da Silva',
@@ -941,6 +957,22 @@ export default class Home extends Vue {
       link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEzZjk2ZWQtMGFmMi00NjU0LWFlZDUtNjhiMjhhN2E1NzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
+  */
+
+  /*{
+    name: 'Jefferson Lins',
+    institution: 'Universidade de São Paulo',
+    speaking: 'Geossintéticos aplicados a Engenharia Civil.',
+    description: `Professor Associado da USP, Depto. de Geotecnia da EESC. Graduado em Engenheiro Civil - UFAL (2004), Mestre em Geotecnia - EESC/USP (2006), Doutor em Eng. Civil (Eng. de Estruturas) - EESC/USP (2011) com período sanduíche na University of Nebraska-Lincoln - EUA (2010). Pós-Doutor em Eng. Civil pela EESC/USP (2013) e pela Universidade do Porto - Portugal (2017). Livre-docente em Geotecnia pelo SGS-EESC-USP (2019). Leciona para os cursos de graduação em Engenharia Civil e Engenharia Ambiental sobre temas relacionados à Mecânica dos solos e Geossintéticos. É professor permanente no Programa de Pós-Graduação em Geotecnia e no Programa de Pós-graduação em Engenharia de Transportes, ambos na EESC/USP. Responsável pelo Laboratório de Geossintéticos da EESC/USP. Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. Coordenador da Comissão de Estudo Especial de Geossintéticos da Associação Brasileira de Normas Técnicas (ABNT) de 2014 a 2020. Parecerista de agências de fomento e de congressos e revistas nacionais e internacionais. Membro de sociedades de cunho científico e tecnológico, cultural e profissional: ABMS, ANPET, IGS e ABRATEC.`,
+    subjectResume: `Geossintéticos aplicados a Engenharia Civil.`,
+    img: '/assets/img/speakers/jeffersonlins.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '09/05',
+      time: '19:00 - 20:30',
+      place: 'Online: A definir'
+    }
+  },*/
 
 
 ]
