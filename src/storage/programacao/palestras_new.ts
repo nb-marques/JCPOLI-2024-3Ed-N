@@ -1,4 +1,18 @@
 let Palestras = [
+
+  {
+    title: "",
+    instructor: "",
+    institution: "",
+    desc: ``,
+    date: "17/04",
+    time: '',
+    place: '',
+    
+   },
+
+
+  /*
   {
     title: "Processo construtivo da parede de concreto e produtividade",
     instructor: "Lucas Ribeiro Camargo Mendes",
@@ -126,16 +140,6 @@ let Palestras = [
     place: "Online",
     link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGJmNGQxNDQtOTQ0Yi00MDJjLTlhM2ItNzFkY2RmMjhmZTIz%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
   },
-
-  /*{
-    title: "Geossintéticos aplicados a Engenharia Civil.",
-    instructor: "Jefferson Lins",
-    institution: "Universidade de São Paulo",
-    desc: `Geossintéticos aplicados a Engenharia Civil.`,
-    date: "09/05",
-    time: "19:00-20:30",
-    place: "Online",
-  },*/
   {
     title: "LION XPRO: DO BIM AO BEM INTELIGÊNCIA ARTIFICIAL APLICADA AO DESENVOLVIMENTO DE PROJETOS DE EDIFÍCIOS SUSTENTÁVEIS",
     instructor: "Dr. Leônidas Albano e Dra. Maria José Pereira Dantas",
@@ -476,6 +480,16 @@ let Palestras = [
     place: "Online",
     link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEzZjk2ZWQtMGFmMi00NjU0LWFlZDUtNjhiMjhhN2E1NzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   },
+  */
+ /*{
+    title: "Geossintéticos aplicados a Engenharia Civil.",
+    instructor: "Jefferson Lins",
+    institution: "Universidade de São Paulo",
+    desc: `Geossintéticos aplicados a Engenharia Civil.`,
+    date: "09/05",
+    time: "19:00-20:30",
+    place: "Online",
+  },*/
 
 ]
 

@@ -1,5 +1,17 @@
 const Exposicao_Design = [
   {
+    title: "",
+    instructor: "",
+    institution: "",
+    desc: ``,
+    date: "",
+    time: "",
+    place: "",
+    image: ""
+  },
+
+  /*
+  {
     title: "Pormade Portas Showroom de materiais e equipamentos",
     instructor: "",
     institution: "PUC Goiás",
@@ -19,10 +31,24 @@ const Exposicao_Design = [
     place: "Próximo ao Teatro de Arena da área III",
     image: "assets/img/slider/expo_pormade.png"
   },
-  
+  */
 ]
 
 const Exposicao_Arquitetura = [
+  {
+    title: "",
+    instructor: "",
+    institution: "",
+    desc: ``,
+    date: "",
+    time: "",
+    place: "",
+    image: ""
+  },
+
+
+
+  /*
   {
     title: "TFC1 - Trabalho de Fim de Ciclo 1 do curso de Arquitetura e Urbanismo",
     instructor: "",
@@ -60,6 +86,7 @@ const Exposicao_Arquitetura = [
     place: "Auditório Marisa Roriz (Área III)",
     image: "assets/img/slider/Livro_Ana_Carolina.png"
   },
+  */
 ]
 
 

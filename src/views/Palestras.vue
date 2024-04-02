@@ -12,9 +12,10 @@
       <h3 class="text-center">Doe alimento não perecível durante as atividades presenciais e participe do bazar promovido pela Escola em parceria com a Coordenação de Extensão da PUC Goiás (CDEX/PROEX)</h3>
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
-        <button class="button" v-on:click="filterPalestras">08/05</button>
-        <button class="button" v-on:click="filterPalestras">09/05</button>
-        <button class="button" v-on:click="filterPalestras">10/05</button>
+        <button class="button" v-on:click="filterPalestras">17/04</button>
+        <button class="button" v-on:click="filterPalestras">18/04</button>
+        <button class="button" v-on:click="filterPalestras">19/04</button>
+        <button class="button" v-on:click="filterPalestras">20/04</button>
         <!--<button class="button" v-on:click="filterPalestras">12/05</button>
         <button class="button" v-on:click="filterPalestras">13/05</button>-->
       </div>

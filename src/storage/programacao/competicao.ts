@@ -1,5 +1,16 @@
 const Competicao = [
   {
+    title: "",
+  instructor: "",
+  institution: "",
+  desc: ``,
+  date: "",
+  time: "",
+  place: "",
+  image: "assets/img/slider/logo-maratona.jpeg"
+  },
+  /*
+  {
     title: "Maratona de Programação - Primeiro Período",
   instructor: "Alexandre Ribeiro, José Luiz e Olegário",
   institution: "PUC Goiás",
@@ -76,7 +87,7 @@ const Competicao = [
     vencedor:"/assets/premiofotografia.pdf",
     place: "Hall Área 2 PUC",
   },
-
+*/
 ]
 
 

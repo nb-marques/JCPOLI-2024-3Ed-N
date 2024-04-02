@@ -1,6 +1,17 @@
 
 let Courses = [
-   
+  {
+    title: "",
+    instructor: "",
+    institution: "",
+    desc: ``,
+    date: "17/04",
+    time: "",
+    place: "",
+    link: ""
+  }, 
+
+  /* 
   {
     title: "Aplicações em Engenharia utilizando o software Smath Solver",
     instructor: "Prof. Me. Alberto Vilela Chaer",
@@ -19,9 +30,6 @@ let Courses = [
     date: "08, 09 e 10/05",
     time: "14:00-17:00",
     place: 'Presencial: Laboratóro 102, Bloco B, Área III'
-  
-  /*  link: ""
-    */
   },
 
   {
@@ -57,6 +65,9 @@ let Courses = [
     place: 'Presencial: Laboratório 105, bloco C, área II'
 
   },
+  */
+ /*  link: ""
+    */
 ]
 
 /*
