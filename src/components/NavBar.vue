@@ -40,12 +40,12 @@
 
       <div class="nav-date">
         <span class="desktop" :style="{ textAlign: 'right' }">
-          De 8 a 10 de Maio de 2023
+          De 17 a 20 de Abril de 2024
           <br />PUC Goiás <br />Goiânia-GO
         </span>
 
         <span class="mobile sm-device">
-          De 8 a 10 de Maio de 2023 PUC Goiás Goiânia-GO
+          De 17 a 20 de Abril de 2024 PUC Goiás Goiânia-GO
         </span>
       </div>
 

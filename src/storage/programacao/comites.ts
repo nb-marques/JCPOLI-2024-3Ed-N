@@ -14,18 +14,13 @@ export const ComiteListOrganization =
     },
 
     {
-      coordenador: 'CARMEN CECÍLIA CENTENO',
-      area: 'Coordenadora de Ciência da Computação'
+      coordenador: 'VICENTE PAULO DE CAMARGO',
+      area: 'Coordenador de Ciência da Computação'
     },
 
     {
       coordenador: 'CASSIO HIDEKI FUJISAWA',
-      area: 'Coordenador de Engenharia de Controle e Automação'
-    },
-
-    {
-      coordenador: 'FELIPE DE SOUSA NOBRE',
-      area: 'Coordenador de Engenharia Elétrica'
+      area: 'Coordenador de Engenharia Elétrica e Engenharia de Controle e Automação'
     },
 
     {
@@ -36,11 +31,6 @@ export const ComiteListOrganization =
     {
       coordenador: 'GENILDA DA SILVA ALEXANDRIA SOUSA',
       area: 'Coordenadora de Design'
-    },
-
-    {
-      coordenador: 'JORIVER RODRIGUES CANEDO',
-      area: 'Coordenador de Análise e Desenvolvimento de Sistemas (ADS)'
     },
 
     {
@@ -66,7 +56,7 @@ export const ComiteListOrganization =
 
     {
       coordenador: 'ANA FLÁVIA MARINHO DE LIMA GARROTE',
-      area: 'Coordenadora do curso de Análise e Desenvolvimento de Sistemas EAD e Membro do Núcleo de Apoio Pedagógico (NAP)'
+      area: 'Coordenadora do curso de Análise e Desenvolvimento de Sistemas e Membro do Núcleo de Apoio Pedagógico (NAP)'
     },
 
     {
@@ -90,18 +80,28 @@ export const ComiteListOrganization =
     },
 
     {
-      coordenador: 'NERCÍLIO ANTÔNIO URIAS CAVALCANTE JÚNIOR',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'NAEL BARRETO MARQUES',
+      area: 'Estagiário da III JCPOLI'
     },
 
     {
-      coordenador: 'GABRIEL BANDEIRA',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'PAULO HENRIQUE GARCIA RIBEIRO',
+      area: 'Estagiário da III JCPOLI'
     },
 
     {
-      coordenador: 'GABRIEL SOARES RIBEIRO',
-      area: 'Estagiário da II JCPOLI'
+      coordenador: 'RAFAEL DE MATOS ABE',
+      area: 'Estagiário da III JCPOLI'
+    },
+
+    {
+      coordenador: 'RAFAEL OLIVEIRA PORFÍRIO',
+      area: 'Estagiário da III JCPOLI'
+    },
+
+    {
+      coordenador: 'YVES YUJI CARVALHO MONMA',
+      area: 'Estagiário da III JCPOLI'
     },
   ]
 
@@ -144,15 +144,6 @@ export const ComiteListCientific =
     {
       coordenador: 'Maria José Pereira Dantas',
       area: 'Doutorado em Engenharia Elétrica - UnB'
-    },
-    
-    {
-      coordenador: 'Pedro Henrique Maximo Pereira',
-      area: 'Doutorado em Arquitetura e Urbanismo - UnB'
-    },
-    {
-      coordenador: 'Ricardo Luiz Machado',
-      area: 'Doutorado em Engenharia de Produção - UFSC'
     },
     {
       coordenador: 'Solange Da Silva',

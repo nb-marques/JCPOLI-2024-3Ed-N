@@ -7,7 +7,7 @@
     ></PhotoHeader>
 
     <Main>
-      <Paragraph title="Cursos">
+      <Paragraph title="Cursos" style="padding-bottom: 25px">
         A Escola Politécnica e de Artes da Pontifícia Universidade Católica de Goiás (PUC Goiás) foi criada em agosto de 2021 com a junção de três escolas: Escola de Artes e Arquitetura, Escola de Ciências Exatas e da Computação e Escola de Engenharia. Atualmente são oferecidos 18 cursos de graduação, sendo 11 presenciais, 5 semipresenciais e 2 ensino à distância.
 
         <div class="list-container">
@@ -53,6 +53,16 @@
                 Ciência da Computação
               </li>
             </a>
+            <a
+              href="https://www.pucgoias.edu.br/cursos/graduacao/ciencias-de-dados-e-inteligencia-artificial/"
+              target="_blank"
+            >
+              <li>
+                Ciência de Dados e Inteligência Artificial
+              </li>
+            </a>
+
+
             <a
               href="https://www.pucgoias.edu.br/cursos/graduacao/design/"
               target="_blank"
@@ -166,14 +176,18 @@
             </a>
           </ul>
         </div>
-        Além de oferecer os seus próprios cursos, a Escola Politécnica e de Artes também é
+      </Paragraph>
+    </Main>
+
+    <div style="padding-bottom: 25px">
+      Além de oferecer os seus próprios cursos, a Escola Politécnica e de Artes também é
         responsável pela área de Física, Matemática e Química com a criação do
         Núcleo de Pesquisa, Ensino e Extensão de Ciências Exatas. Escola Politécnica e de Artes 
         oferece o programa de pós-graduação intitulado Mestrado de
         Engenharia de Produção e Sistemas(
         <a
           id="mepros"
-          href="https://sites.pucgoias.edu.br/pos-graduacao/mestrado-engenharia-producao-sistemas/"
+          href="https://www.pucgoias.edu.br/mestrado-e-doutorado/engenharia-de-producao-e-sistemas/"
           target="_target"
           >MEPROS</a
         >
@@ -184,8 +198,7 @@
         Jornada Científica tem por objetivo oportunizar e estimular os
         discentes, egressos, docentes de graduação e pós-graduação a
         participarem da produção e divulgação do conhecimento científico.
-      </Paragraph>
-    </Main>
+    </div>
 
     <Organization />
     <Main>
@@ -228,6 +241,24 @@ export default class Escola extends Vue {
   constructor() {
     super()
     this.speakers = [
+
+    {
+    name: '',
+    institution: '',
+    speaking: '',
+    description: ``,
+    subjectResume: ``,
+    img: '/assets/img/speakers/user-vector-man.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: '',
+      link: ''
+   }
+  },
+
+      /*
       {
     name: 'Me. Alberto Vilela Chaer',
     institution: 'PUC Goiás',
@@ -289,21 +320,6 @@ export default class Escola extends Vue {
     }
   },
 
-  /*{
-    name: 'Jefferson Lins',
-    institution: 'Universidade de São Paulo',
-    speaking: 'Geossintéticos aplicados a Engenharia Civil.',
-    description: `Professor Associado da USP, Depto. de Geotecnia da EESC. Graduado em Engenheiro Civil - UFAL (2004), Mestre em Geotecnia - EESC/USP (2006), Doutor em Eng. Civil (Eng. de Estruturas) - EESC/USP (2011) com período sanduíche na University of Nebraska-Lincoln - EUA (2010). Pós-Doutor em Eng. Civil pela EESC/USP (2013) e pela Universidade do Porto - Portugal (2017). Livre-docente em Geotecnia pelo SGS-EESC-USP (2019). Leciona para os cursos de graduação em Engenharia Civil e Engenharia Ambiental sobre temas relacionados à Mecânica dos solos e Geossintéticos. É professor permanente no Programa de Pós-Graduação em Geotecnia e no Programa de Pós-graduação em Engenharia de Transportes, ambos na EESC/USP. Responsável pelo Laboratório de Geossintéticos da EESC/USP. Coordenador do Curso de Engenharia Civil da EESC/USP desde 2019. Vice-Chefe do Departamento de Geotecnia (SGS) da EESC/USP desde 2021. Coordenador da Comissão de Estudo Especial de Geossintéticos da Associação Brasileira de Normas Técnicas (ABNT) de 2014 a 2020. Parecerista de agências de fomento e de congressos e revistas nacionais e internacionais. Membro de sociedades de cunho científico e tecnológico, cultural e profissional: ABMS, ANPET, IGS e ABRATEC.`,
-    subjectResume: `Geossintéticos aplicados a Engenharia Civil.`,
-    img: '/assets/img/speakers/jeffersonlins.jpg',
-    customSize: '100%',
-    datentime: {
-      date: '09/05',
-      time: '19:00 - 20:30',
-      place: 'Online: A definir'
-    }
-  },*/
- 
   {
     name: 'André Luiz Dias da Silva',
     institution: 'DN Engenharia',
@@ -1035,6 +1051,8 @@ export default class Escola extends Vue {
       link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEzZjk2ZWQtMGFmMi00NjU0LWFlZDUtNjhiMjhhN2E1NzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   }
   },
+  */
+ 
 
     ]
   }

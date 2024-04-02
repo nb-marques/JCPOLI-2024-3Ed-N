@@ -2,14 +2,14 @@
   <div id="container-sobre">
     <v-layout p-3 row wrap>
       <v-flex xs12 class="text-xs-left" mt-5>
-        <h2>II Jornada Científica da Escola Politécnica e de Artes</h2>
+        <h2>III Jornada Científica da Escola Politécnica e de Artes</h2>
       </v-flex>
       <v-flex id="sobre" xs12 class="text-xs-left" mt-3>
         <p>
-          Temos a alegria de anunciar a realização da II Jornada Científica da
-          Escola Politécnica e de Artes (II JCPOLI) da Pontifícia Universidade Católica de
-          Goiás (PUC Goiás) que será realizada de 8 a 10 de Maio de 2023. A II
-          JCPOLI tem como tema O uso da Inteligência Artificial e suas tecnologias para a melhoria da qualidade de vida,
+          Temos a alegria de anunciar a realização da III Jornada Científica da
+          Escola Politécnica e de Artes (III JCPOLI) da Pontifícia Universidade Católica de
+          Goiás (PUC Goiás) que será realizada de 17 a 20 de Abril de 2024. A III
+          JCPOLI tem como tema O uso da Inteligência Artificial a serviço da sociedade,
           oferecendo atividades: palestras, mesa redonda, minicursos, competições e exposições.
         <p/>
         
@@ -51,7 +51,7 @@
         <p>
           Nesta edição da Jornada serão aceitos artigos de alunos de Trabalho de
           Conclusão de Curso – TCC II. Os artigos aceitos e publicados nos anais
-          da II Jornada Científica da Escola Politécnica e de Artes podem substituir a
+          da III Jornada Científica da Escola Politécnica e de Artes podem substituir a
           escrita da monografia para os alunos da Escola, exceto os cursos de Arquitetura e 
           Urbanismo e Design, dada a especificidade do caráter projetual destes. Os autores dos artigos
           devem ser o(s) aluno(s), o(s) orientador(es) e co-orientador(es). A
