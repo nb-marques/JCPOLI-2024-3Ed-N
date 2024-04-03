@@ -135,12 +135,26 @@ export default class Home extends Vue {
     this.speakersList = 
     [
     {
-    name: '',
-    institution: '',
-    speaking: '',
-    description: ``,
-    subjectResume: ``,
-    img: '',
+    name: 'FELIPE CORREA VELOSO DOS SANTOS',
+    institution: 'PUC-Goiás',
+    speaking: 'Introdução ao Power BI',
+    description: `Tecnólogo em Irrigação e Drenagem. Doutor em Agronomia. Docente da PUC-Goiás na área de recursos hídricos e estatística (Modelagem matemática, Probabilidade e Estatística, Estatística Aplicada, Climatologia Agrícola, Irrigação e Drenagem, Fenômenos de Transporte, Hidráulica e Hidrologia). Atualmente é líder do Grupo de Pesquisa em Gestão e Modelagem em Recursos Hídricos (GEMORH).`,
+    subjectResume: `Introdução ao Power BI`,
+    img: '/assets/img/speakers/Felipe_Correa_Veloso_dos_Santos_MARTHA_NASCIMENTO_CA.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '17/04/2024 (Quarta);18/04/2024 (Quinta);',
+      time: '14:00-17:00',
+      place: 'Lab. Informática: sala 101, bloco C, área II'
+    }
+  },
+  {
+    name: 'Rafael Leal Martins',
+    institution: 'PUC Goiás e Fundação Jaime Câmara',
+    speaking: 'Módulos úteis em Python',
+    description: `Rafael Leal Martins é professor de graduação dos cursos de TI da PUC Goiás desde 2014, atualmente também atua como professor na Faculdade Senac Goiás. Trabalha como Desenvolvedor Web Full Stack, atualmente presta serviços para a Organização Jaime Câmara.`,
+    subjectResume: `A oficina apresentará módulos da linguagem Python, para solucionar diversos problemas computacionais.`,
+    img: '/assets/img/speakers/Rafael_Leal_Martins_ANA_FLAVIA_MARINHO_D_1.jpeg',
     customSize: '100%',
     datentime: {
       date: '',
@@ -148,13 +162,271 @@ export default class Home extends Vue {
       place: ''
     }
   },
+
   {
-    name: '',
-    institution: '',
-    speaking: '',
+    name: 'Ronice Alves Veloso',
+    institution: 'Faculdades Integradas da América do Sul (INTEGRA)',
+    speaking: 'Produção de óleos essenciais',
+    description: `Engenheira agrônoma pela Universidade Federal do Tocantins-UFT desenvolvendo projetos com as culturas de abacaxi e caju anão precoce. Mestre pelo Programa de Pós-Graduação em Produção Vegetal da UFT, trabalhando na linha de pesquisa de Fitotecnia com plantas medicinais e extração de óleo essencial. Doutora em Produção Vegetal atuando na linha de pesquisa de Fitossanidade, com ênfase em controle alternativo de doenças utilizando óleos essenciais, pelo Programa de Pós-Graduação em Produção Vegetal da UFT, campus de Gurupi.`,
+    subjectResume: `Produção de óleos essenciais`,
+    img: '/assets/img/speakers/Dra.-Ronice-Alves-Veloso_MARTHA_NASCIMENTO_CA.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'João Asmar Junior',
+    institution: 'Superintendencia de Engenharia Agrícola e Desenvolvimento Sustentável',
+    speaking: 'Bioinsumos no Estado de Goiás',
+    description: `Engenheiro Agrícola, Superintendente de Engenharia Agrícola e Desenvolvimento Sustentável da Secretaria de Estado de Agricultura, Pecuária e Abastecimento (SEAPA).`,
+    subjectResume: `Programa Estadual de Bioinsumos da Secretaria de Estado de Agricultura, Pecuária e Abastecimento (SEAPA) tem como objetivo ampliar e fortalecer a adoção de práticas para a evolução do setor agropecuário, com a expansão da produção, do desenvolvimento e da utilização de bioinsumos e sistemas de produção sustentáveis.`,
+    img: '/assets/img/speakers/Bioinsumos.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Alisson Rodrigues Alves',
+    institution: 'UNIGOIÁS / FACULDADE SENAC - GO',
+    speaking: 'PROTEGENDO O FUTURO: SEGURANÇA DA INFORMAÇÃO E INTELIGÊNCIA ARTIFICIAL NO MERCADO ATUAL.',
+    description: `Mestre em Ciências da Computação pela Universidade Federal de Minas Gerais (UFMG), Bacharel e Técnico em Informática pelo Instituto Federal de Goiás (IFG). Atualmente é professor (com experiência em Ensino a Distância) no Centro Universitário de Goiás (UNIGOIÁS, antigo Uni-ANHAGUERA) e na Faculdade SENAC Goiás. Foi coordenador de Projetos de TI na Linkcon Consultoria em TI e analista de infraestrutura de TI no Centro Cultural Oscar Niemeyer. Possui interesse em Desenvolvimento de Software, Engenharia de Software, Segurança da Informação, Redes de Computadores com ênfase em Redes Programáveis (Redes Definidas por Software, Redes Definidas por Rádio e Internet das Coisas), Gerenciamento de Projetos. Foi agraciado com uma bolsa de mestrado resultado do 1 lugar do Prêmio Destaque de Iniciação Científica do CNPq na modalidade Iniciação Tecnológica. Possui certificações técnicas Sophos (ArcServe UDP 6.5 Backup tool e XG Firewall v.17 - Engineer).`,
+    subjectResume: `Destaca as tecnologias da segurança da informação integrada com Inteligência Artificial.`,
+    img: '/assets/img/speakers/PALESTRANTE_VICENTE.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Messias Reis',
+    institution: 'Mundo de Projetos',
+    speaking: 'Estado da Arte em Sistemas e Aplicações para Gerenciamento de Projetos de TI',
+    description: `Bacharel em Ciência da Computação. Mestre em Engenharia Elétrica e Computação pela Universidade Federal de Goiás. MBA em Governança nas Tecnologias da Informação. MBA em Gerenciamento de Projetos. Certificado em Project Management Professional - PMP pelo Project Management Institute - PMI. Certificado MCTS (MS Project 2013) pela Microsoft. Certificado Agile Scum Master pela Exin. Certificado Itil e Cobit. Certificado em Kanban Management I. Atuou Líder PMO em empresa de grande porte. Professor des cursos de MBA em Gerenciamento de Projetos, Certificação PMP, ferramenta MS Project e Escritório de Gerenciamento de Projetos.
+Está com Diretor de filiação do Project Management Instituto - PMI, capítulo Goiás. Autor do livro “MS Prject 2016 - Porque Planejar e Controlar é Preciso”, e da obra “Procedimentos para Gerenciamento de Projetos”. Sócio proprietário da empresa Mundo de Projetos, capacitações e consultorias em Gerenciamento de Projetos.`,
+    subjectResume: `A palestra "Estado da Arte em Sistemas e Aplicações para Gerenciamento de Projetos de TI" abordará como a diferenciação entre projetos, processos e rotinas impacta na eficiência organizacional, especialmente em contextos de TI. Enfatizando a necessidade de distinguir projetos com início, meio e fim das atividades rotineiras, a apresentação introduzirá uma metodologia inovadora focada em aplicações computacionais para categorizar demandas e aplicar o gerenciamento adequado. Utilizando um fluxo metodológico que incorpora um modelo de tomada de decisão e uma classificação matemática baseada na matriz Stacey, a proposta visa otimizar o gerenciamento de projetos de tecnologia da informação alinhando métodos apropriados às características e requisitos específicos de cada demanda. A metodologia, apoiada na classificação por prioridades do protocolo de Manchester, tem se mostrado um possível marco na utilização de de softwares e aplicação estratégias diferenciadas para o gerenciamento de projetos, processos e rotinas no universo da tecnologia da informação.`,
+    img: '/assets/img/speakers/Messias_Reis.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Eurípedes Afonso da Silva Neto',
+    institution: 'UFG',
+    speaking: 'Panorama da Arquitetura em Goiás: Séculos XVIII, XIX e XX',
+    description: `Doutor em Arquitetura e Urbanismo, pela Universidade de Brasília (2022). Possui mestrado em Arquitetura e Urbanismo pela Universidade de Brasília (2010) e graduação em Arquitetura e Urbanismo pela Universidade Estadual de Goiás (2007). Professor nos cursos de Arquitetura junto as universidades: UFG, UnB, UniEvangélica, UDF e UNIP.`,
+    subjectResume: `Apresentação de parte da arquitetura realizada em Goiás durante os séculos XVIII, XIX e XX. Um panorama uniformizado graficamente através do olhar sobre cem edifícios. Organizando assim uma crônica da transformação da região por meio de suas edificações, demonstrando como foram espelho de um ideal político, social e arquitetônico que permeou a produção local.`,
+    img: '/assets/img/speakers/Eurípedes_FREDERICO.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Franklin Silva de Castro Bonfim',
+    institution: 'Serviço Nacional de Aprendizagem Comercial (SENAC-GO)',
+    speaking: 'Vencendo Hackathons!',
+    description: `Graduação em Gestão da Tecnologia da Informação, Graduação em Gestão em Análise e desenvolvimento de Sistemas, Especialização em andamento em MBA Tecnologia de Informação para Estratégia de Negócios, DPO – Data Protection Officer do SESC e SENAC Goiás. Embaixador da Inovação pela Secretaria de Estado de Desenvolvimento e Inovação do Estado de Goiás - SEDI/Goiás. Entusiasta da inovação e empreendedorismo, é especialista em Tecnologia da Informação e líder adjunto no SESC e SENAC Goiás. Cofundador e um dos líderes da comunidade Black Stars, contribui ativamente para projetos inovadores em IoT e destacou-se como um dos embaixadores da Inovação em Goiás. Sua trajetória é marcada por vitórias em hackathons, palestras inspiradoras e engajamento na promoção de eventos de tecnologia e empreendedorismo em Goiás.`,
+    subjectResume: `A palestra "Vencendo Hackathons", destinada a graduandos de Análise e Desenvolvimento de Sistemas, Ciência da Computação, Ciência de Dados e IA e Engenharia de Computação, promete ser uma fonte inestimável de conhecimento e estratégias para aqueles interessados em se destacar nesses eventos competitivos de programação. Os palestrantes, com experiência comprovada em hackathons, compartilharão insights sobre como abordar esses desafios, enfatizando a importância do trabalho em equipe, pensamento criativo e habilidades técnicas afiadas. A apresentação cobrirá desde a preparação pré-evento, como formar equipes equilibradas e desenvolver uma mentalidade vencedora, até técnicas eficazes de brainstorming, prototipagem rápida e apresentação de projetos. Além disso, os participantes aprenderão como maximizar recursos limitados sob pressão de tempo, transformando ideias inovadoras em protótipos funcionais que impressionam os jurados. Essa palestra é uma oportunidade imperdível para quem aspira a dominar a arte de vencer hackathons, preparando os estudantes não apenas para competir, mas para triunfar nesse ambiente estimulante e altamente competitivo.`,
+    img: '/assets/img/speakers/Franklin_ANA.png',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Eng. Ana Renata Volpini Litfalla',
+    institution: 'CREA-GO',
+    speaking: 'Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional',
+    description: `Engenheira Civil, Pós em Segurança do Trabalho, MBA em Gestão Ambiental e em Auditoria, Perícia e Meio Ambiente; Assessora Institucional do CREA-GO Jovem; Perita judicial do TRT (2015 - 2018) e Membro Diretor AGEST.`,
+    subjectResume: `Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional`,
+    img: '/assets/img/speakers/Palestrante_CREA-GO.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Uirá do Amaral',
+    institution: 'IFGoiano - Urutaí',
+    speaking: 'Potencialidade da fruticultura no Centro-Oeste',
+    description: `Engenheiro Agrônomo, Doutor em Fitotecnia - Professor do Instituto Federal Goiano - Campus Urutaí, atuando nas áreas de Fruticultura, Olericultura e Plantas Medicinais e Aromáticas.`,
+    subjectResume: `A fruticultura tem se destacado no Brasil como uma das principais atividades agropecuárias, demonstrando influência no setor econômico e social.  A região Centro Oeste que lidera na produção nacional de grãos, onde a mesma por possuir microrregiões bem definidas em seus estados, viabiliza o emprego da fruticultura em todos eles, visto que cada microrregião dispõe de condições especificas de temperatura, solo e umidade para cada tipo de cultura que venha a ser cultivada.`,
+    img: '/assets/img/speakers/Amaral_MARTHA.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Antônio Generoso',
+    institution: 'Consultor em LGPD',
+    speaking: 'Lei Geral de Proteção de Dados, até que ponto a Inteligência Artificial pode me ajudar',
+    description: `Advogado, Analista de Sistemas consultor em LGPD, Bacharel em Direito pela Universidade Salgado de Oliveira (2020). Bacharel em Análise de Sistemas pela Universidade Salgado de Oliveira (2001). Especialista em Direito Administrativo e Licitações pela Faculdade Prominas(2022). Especialização em andamento - Direito Público pela Faculdade Prominas(previsão 2023).Especialização pela Pontifícia Universidade Católica de Goiás em Qualidade e Gestão de Software(2010). Mestrando pela Universidad Europea del Atlantico com dupla titulação (Resolución de Conflictos y Mediación), e pela Universidad Internacional Iberoamericana (Maestría en Dirección Estratégica con especialidad en Gerencia),Espanha e Porto Rico, respectivamente(previsão 2023). Doutorado em "Nuevas Tecnologías de la Información y las Comunicaciones" (2005). Professor do curso de Direito - Direito Administrativo - Direito Civil - Sistemas inteligentes para tratamento de dados pessoais sensíveis de acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD Lei 13.709/2018). Desenvolvimento de tecnologia para implementação de políticas públicas em negociação, mediação e conflito; Atuação em Análise de Sistemas no domínio corporativo, médico-sanitário. Sistemas inteligentes. Lógica Matemática. Inteligência Artificial aplicada à esportes coletivos. Inteligência Artificial aplicada ao domínio jurídico administração pública(desenvolvido no Tribunal de Contas do Estado de Goiás / GoiasPrev / Saneago) junto ao governo Espanhol e Brasileiro). Inteligência Artificial aplicada ao tratamento do câncer de mama, colo retal, pulmão e outros (Projeto junto à Universidad de Murcia, 2007 / Espanha ). Soluções em dispositivos móveis de comunicação (smartphones, tablets, wearables); Cálculos preditivos usando redes Bayesianas aplicadas ao domínio jurídico, médico e esportivo. Tratamento de dados clínicos pessoais utilizando o modelo HL7/2008. Arquiteto de Sistemas com inteligência ativa utilizando tecnologia CUDA.`,
+    subjectResume: `Apresentação a respeito da LGPD  com IA`,
+    img: '/assets/img/speakers/user-vector-man.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'André Luiz Miranda Silva Zopelari',
+    institution: 'AcadGeo',
+    speaking: 'Meio Ambiente e Comercialização Agrícola',
+    description: `Graduado em Relações Internacionais (1998), Mestrado em Agronegócio (PPAGRO/UFG, 2011) e Doutor em Políticas Públicas, Estratégias e Desenvolvimento - linha pesquisa: estratégias e desenvolvimento sustentável (PPED/UFRJ). Possui experiência em Política Nacional de Pagamento por Serviços Ambientais e Zoneamento Agroecológico da Cana-de-açúcar em Goiás.`,
+    subjectResume: `Meio Ambiente e Comercialização Agrícola`,
+    img: '/assets/img/speakers/user-vector-man.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'João Paulo Marinho Martiins',
+    institution: 'Sorcero',
+    speaking: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro',
+    description: `Cientista de Dados e Engenheiro de Machine Learning trabalhando com projetos de ponta envolvendo Inteligência Artificial.`,
+    subjectResume: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`,
+    img: '/assets/img/speakers/Paulo_ANDRE.png',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Vladia Correchel',
+    institution: 'Escola de Agronomia UFG / Laboratório de Fisica do Solo',
+    speaking: 'Praticas de Manejo e Conservação do Solo',
+    description: `Graduação em Agronomia pela UFLA, mestrado em Agronomia (Solos e Nutrição de Plantas) pela USP/ESALQ  e doutorado em Ciências (Energia Nuclear na Agricultura) pela USP/CENA. Atua na Escola de Agronomia da UFG com as disciplinas Física do Solo e Erosão e Conservação do Solo.`,
+    subjectResume: `Praticas de Manejo e Conservação do Solo`,
+    img: '/assets/img/speakers/Correchel_MARTHA.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Sandra Catharinne Pantaleão Resende',
+    institution: 'PUC Goiás / UEG',
+    speaking: 'Praticas de Manejo e Conservação do Solo',
+    description: `Doutorado em Arquitetura e Urbanismo pela Universidade de Brasília (2016). Mestre em Geografia - Dinâmica Sócio-Ambiental, pela UEL (2010). Graduada em Arquitetura e Urbanismo pela PUC Goiás (2006) e em Artes Visuais - habilitação Design Gráfico pela UFG (2000). Mãe da Ana Caroline (2012) e do Paulo Vitor (2018). Líder do Grupo de Pesquisa Cidade, Morfologia, Paisagem e Morfologia (CIMPARQ - CNPQ/PUC Goiás). Docente desde 2009 na UEG e, 2010, na PUC Goiás nos cursos de Arquitetura e Urbanismo e, desde 2019, nos Programa de Pós Graduação em Desenvolvimento e Planejamento Territorial e no Programa de Pós Graduação em História ambos da PUC/Goiás, além de orientação de alunos de Iniciação Científica vinculados às bolsas PIBIC/CNPQ e BIC/PUC Goiás desde 2014.`,
+    subjectResume: `Praticas de Manejo e Conservação do Solo`,
+    img: '/assets/img/speakers/Sandra_FREDERICO.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Elizon Nunes',
+    institution: 'Labogef/UFG',
+    speaking: 'Modelos Hidrológicos',
+    description: `Doutor em Geografia com atuação nas áreas de Geoprocessamento, Sistemas de Informações Geográficas, Sensoriamento Remoto. Geógrafo no Instituto de Estudos Socioambientais, desenvolvendo atividades junto ao Laboratório de Geomorfologia, Pedologia e Geografia Física da Universidade Federal de Goiás`,
+    subjectResume: `Modelos Hidrológicos`,
+    img: '/assets/img/speakers/user-vector-man.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Rodolfo Wenceslau R. Mota',
+    institution: 'SEBRAE-GO',
+    speaking: 'Visualizando o Invisível: A Arte da Representação Gráfica em Ciência de Dados',
+    description: `Trabalho na área de Tecnologia da Informação (TI) há mais de 15 anos e desde então venho vivenciando os diversos desafios e papéis existentes na área. Costumo dizer que o meu principal objetivo é ajudar os outros a alcançarem mais produtividade em suas áreas de negócios através das facilidades que a TI pode proporcionar. O meu foco principal é na identificação da solução do problema e não em encontrar culpados. No início da minha carreira atuei como programador Java em regime de fábrica de software no qual pude conhecer diversas ferramentas, tecnologias, padrões e metodologias. Em seguida vivenciei por alguns anos o papel de analista de testes ao ficar responsável por realizar os testes dos programas de outros amigos e com o passar do tempo obtive uma oportunidade para trabalhar como analista de sistemas terceirizado para o Governo do Estado de Goiás. Após este período participei de processo seletivo no SEBRAE/GO no qual tive o privilégio de passar em 1º lugar para o cargo de Analista no qual tenho trabalhado desde o ano de 2013.
+Acredito muito no tripé PESSOAS, PROCESSOS e TECNOLOGIA como o caminho para ajudar o BRASIL a florescer e auxiliá-lo nesta travessia até se transformar no país dos nossos SONHOS!`,
+    subjectResume: `Nessa palestra, mergulharemos na interseção fascinante entre a Ciência de Dados, a Inteligência Artificial e a incrível habilidade humana de traduzir dados complexos em representações visuais impactantes. Descubra como a aplicação de técnicas avançadas de visualização, aliada ao poder da Inteligência Artificial, desvenda padrões, insights e conexões que escapam à observação comum. Vamos juntos desvendar o invisível?`,
+    img: '/assets/img/speakers/Rodolfo_Wencelau.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Benjamim Jorge Rodrigues dos Santos',
+    institution: 'PUC Goiás',
+    speaking: 'Planejamento Urbano - Qual é a cidade que queremos?',
+    description: `Possui graduação em Engenharia Civil pela Universidade Federal de Goiás - UFG (1981), Licenciatura Plena em Construção Civil pelo Centro Federal de Educação Tecnológica de Minas Gerais - CEFET-MG (1989), Mestrado em Engenharia de Transportes pela Escola de Engenharia de São Carlos da Universidade de São Paulo - EESC/USP (1992) e Doutorado em Engenharia de Transportes pela Escola Politécnica da Universidade de São Paulo - POLI/USP (1998). Atualmente é professor titular da Pontifícia Universidade Católica de Goiás. Tem experiência na Área de Engenharia de Transportes, com ênfase em Infraestrutura e Planejamento de Transportes, atuando principalmente nos seguintes temas: Projetos executivos de rodovias, ferrovias, hidrovias e aeroportos; Planejamento de transporte urbano; Estudos de Engenharia de tráfego; Estudos de Impacto no Trânsito - EIT e Estudos de Impactos de Vizinhança - EIV.`,
+    subjectResume: `Palestra ministrada pelo Prof. Dr. Benjamim Jorge discutindo questões fundamentais de mobilidade urbana.`,
+    img: '/assets/img/speakers/Foto_benjamim_MARTA.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Aníbal Tavares de Azevedo',
+    institution: 'Univesp/Canal próprio no YouTube',
+    speaking: 'Palestra de abertura do VI Desafio em Ciências de Dados: Oportunidades e Desafios na era da Inteligência Artificial massificada',
+    description: `Possui graduação em Matemática Aplicada e Computacional pela Universidade Estadual de Campinas (1999), mestrado em Engenharia Elétrica pela Universidade Estadual de Campinas (2002), doutorado em Engenharia Elétrica pela Universidade Estadual de Campinas (2006), e Livre-Docência pela Universidade Estadual de Campinas (2020). Tem experiência na produção de modelos matemáticos e de simulação para Engenharia de Produção e Planejamento e Programação da Operação do Sistema Elétrico com ênfase em Programação Linear, Não-Linear e Inteira Mista, atuando principalmente nos seguintes temas: planejamento e controle da produção da manufatura e da geração e transmissão de energia elétrica, desenvolvimento de modelos matemáticos e de simulação para logística e operação portuária, localização de facilidades como hospitais, centrais telefônicas e armazéns de soja com emprego dos seguintes métodos: algoritmos genéticos, Beam Search, Simulated Annealing, Simulação de sistemas e representação por regras.  Já criou mais de 1100 vídeo-aulas abordando temas como pesquisa operacional e simulação para a UNIVESP e o seu próprio canal no YouTube.`,
+    subjectResume: `Nessa conversa serão apontados alguns desenvolvimentos da inteligência artificial massificada em diversos campos. Diversas aplicações práticas serão abordadas e exemplificadas. Possibilidades de novos negócios para resolver as dores do mundo combinando o uso das tecnologias habilitadoras da indústria 4.0 em conjunto com a inteligência artificial serão discutidas.`,
+    img: '/assets/img/speakers/AnibalTavares.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '',
+      time: '',
+      place: ''
+    }
+  },
+
+  {
+    name: 'Marta Pereira da Luz',
+    institution: 'PUC Goiás e Eletrobrás Furnas',
+    speaking: 'Por que somos minoria em STEM? Roda de Conversa: Mulheres na Ciência',
     description: ``,
-    subjectResume: ``,
-    img: '',
+    subjectResume: `Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a participação de mulheres em áreas de STEM e será discutido sobre as questões históricas da mulher nestes cenários. A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois desempenham um papel essencial nas comunidades de ciência e tecnologia. `,
+    img: '/assets/img/speakers/MartaPereira.png',
     customSize: '100%',
     datentime: {
       date: '',

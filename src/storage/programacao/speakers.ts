@@ -8,17 +8,17 @@ export const speakers_list = [
 const speakers_jcpoli = 
 [
   {
-    name: 'Me. Alberto Vilela Chaer',
-    institution: 'PUC Goiás',
-    speaking: 'Aplicações em Engenharia utilizando o software Smath Solver',
-    description: `Mestre em Engenharia Civil / Estruturas pela Pontifícia Universidade Católica do Rio de Janeiro (1991). Graduado em Engenharia Civil pela Universidade Federal de Goiás (1986). Atualmente é Professor Adjunto-I do Curso de Engenharia Civil da Escola de Engenharia da Pontifícia Universidade Católica de Goiás (desde 1989) e Professor Assistente-I do Curso de Engenharia Civil da Escola de Engenharia Civil da Universidade Federal de Goiás (desde 2009). Tem experiência na área de Engenharia Civil, com ênfase em Estruturas de Concreto Armado e Protendido (Experiência Acadêmica: Magistério do Ensino Superior; Experiência Profissional: Elaboração de Projetos de Estruturas em Concreto Armado e Protendido; Consultoria em Estruturas). Poeta. Escreve poemas desde 1980. Artista visual. Produz poesia visual desde 2005.`,
-    subjectResume: `O minicurso “Aplicações em Engenharia utilizando o software Smath Solver” tem como objetivo apresentar as possibilidades que este programa – gratuito a partir de download em página oficial na web (https://en.smath.com/view/SMathStudio/summary) – oferece para elaboração de cálculos e geração da respectiva memória de cálculo de um problema qualquer que tenha sua resolução a partir de utilização de expressões matemáticas.  Trata-se de um programa bastante robusto e amplamente conhecido pelo nome de “SMath Studio” utilizado em universidades do Brasil e exterior, sendo uma ferramenta de sedimentação do processo ensino-aprendizagem, através da simulação dos eventos envolvidos em um cálculo. O benefício da utilização deste programa é utilizar da rapidez dos cálculos feitos por meio da máquina, cujas operações e lógica são conduzidas pelo desenvolvimento do usuário, para que se possa tomar conclusões e decisões a partir dos resultados. Uma ferramenta que se constitui em um “caderno de exercícios” de Professores, Estudantes e Profissionais de Engenharia. Recomenda-se que os participantes do referido minicurso acessem a sessão por meio de computador pessoal (sistema operacional Windows e Linux; também por versão Open in browser) para melhor rendimento durante a preleção e atividades propostas, apesar de que o software também tem sua versão gratuita para ser instalada em aparelho celular no sistema Android.`,
-    img: '/assets/img/speakers/albertovilela.jpg',
+    name: 'FELIPE CORREA VELOSO DOS SANTOS',
+    institution: 'PUC-Goiás',
+    speaking: 'Introdução ao Power BI',
+    description: `Tecnólogo em Irrigação e Drenagem. Doutor em Agronomia. Docente da PUC-Goiás na área de recursos hídricos e estatística (Modelagem matemática, Probabilidade e Estatística, Estatística Aplicada, Climatologia Agrícola, Irrigação e Drenagem, Fenômenos de Transporte, Hidráulica e Hidrologia). Atualmente é líder do Grupo de Pesquisa em Gestão e Modelagem em Recursos Hídricos (GEMORH).`,
+    subjectResume: `Introdução ao Power BI`,
+    img: '/assets/img/speakers/Felipe_Correa_Veloso_dos_Santos_MARTHA_NASCIMENTO_CA.jpg',
     customSize: '100%',
     datentime: {
-      date: '09/05',
-      time: '14:00-18:00',
-      place: 'Online: Microsoft Teams'
+      date: '17/04/2024 (Quarta);18/04/2024 (Quinta);',
+      time: '14:00-17:00',
+      place: 'Lab. Informática: sala 101, bloco C, área II'
     }
   },
   
