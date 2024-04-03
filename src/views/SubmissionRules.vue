@@ -75,7 +75,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/JCPOLI_II_template.docx"
+              href="/assets/Template_Artigo.docx"
               target="_blank"
             >
               ACESSAR TEMPLATE
@@ -104,13 +104,28 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/edital_II_JCPOLI_2023_final.pdf"
+              href="/assets/edital_III_JCPOLI.pdf"
               target="_blank"
             >
               ACESSAR EDITAL
               <v-icon right dark>cloud_download</v-icon>
             </v-btn>
           </div>
+
+          <div class="info-arquivo">
+            <h4>Formatação dos artigos:</h4>
+            <v-btn
+              type="submit"
+              color="primary"
+              href="/assets/GUIA_DE_FORMATAÇÃO_DO_ARTIGO.pdf"
+              target="_blank"
+            >
+              ACESSAR FORMATAÇÃO
+              <v-icon right dark>cloud_download</v-icon>
+            </v-btn>
+          </div>
+
+
         </div>
       </div>
     </div>
