@@ -1,191 +1,183 @@
 let Palestras = [
 
   {
-    title: "",
-    instructor: "",
-    institution: "",
-    desc: ``,
+    title: "Bioinsumos no Estado de Goiás",
+    instructor: "João Asmar Junior",
+    institution: "Superintendencia de Engenharia Agrícola e Desenvolvimento Sustentável ",
+    desc: `Programa Estadual de Bioinsumos da Secretaria de Estado de Agricultura, Pecuária e Abastecimento (SEAPA) tem como objetivo ampliar e fortalecer a adoção de práticas para a evolução do setor agropecuário, com a expansão da produção, do desenvolvimento e da utilização de bioinsumos e sistemas de produção sustentáveis.`,
     date: "17/04",
-    time: '',
-    place: '',
-    
-   },
-
-
-  /*
-  {
-    title: "Processo construtivo da parede de concreto e produtividade",
-    instructor: "Lucas Ribeiro Camargo Mendes",
-    institution: "MRV Engenharia",
-    desc: `Processo construtivo da parede de concreto e produtividade.`,
-    date: "09/05",
     time: '08:00-09:30',
-    place: 'Auditório 3 (Área II)',
+    place: 'Auditório 3, área II',
     
    },
-  {
-    title: "Mesa Bistrô URBS",
-    instructor: "Karine de Souza Costa",
-    institution: "URBS Connect",
-    desc: "Mesa Bistrô URBS",
-      
-    date: "10/05",
-    time: "19:00-20:30",
-    place: 'Presencial: Hall de entrada da Área III',
-      
-   },
-  {
-    title: "Engenharia de Segurança no Agronegócio",
-    instructor: "André Luiz Dias da Silva",
-    institution: "DN Engenharia",
-    desc: "A engenharia de segurança no Agronegócio é importante para garantir a segurança dos trabalhadores e do ambiente de trabalho, bem como para aumentar a eficiência e a produtividade das atividades agrícolas. Conta com planejamento de medidas de prevenção e controle de incêndios nas áreas de plantio e armazenamento de produtos agrícolas, Desenvolvimento de estratégias para prevenção de acidentes com máquinas agrícolas, Implantação de medidas de segurança alimentar, como a adoção de boas práticas agrícolas e o controle de qualidade dos alimentos produzidos, Projeto de instalações de armazenamento de produtos agrícolas seguras e eficientes, incluindo sistemas de ventilação e controle de temperatura.",
-    date: "09/05",
-    time: "08:00-09:30",
-    place: "Auditório 2 (Área II)",
-  },
-  {
-    title: "Controle fitossanitário em hortaliças",
-    instructor: "Scheila Ronconi Da Rolt",
-    institution: "Araguaia produtos agropecuários",
-    desc: "Controle fitossanitário em hortaliças é o conjunto de medidas adotadas para proteger as plantas cultivadas de doenças, pragas e outros agentes que possam afetar sua saúde e qualidade. Essas medidas podem incluir a adoção de práticas culturais adequadas, como rotação de culturas e manejo do solo, o uso de defensivos agrícolas quando necessário e a adoção de estratégias de controle biológico e integrado de pragas. O objetivo do controle fitossanitário é garantir a saúde e a produtividade das plantas, bem como a segurança alimentar e a proteção do meio ambiente. Além disso, o controle fitossanitário também pode contribuir para a sustentabilidade da produção agrícola, reduzindo o uso de defensivos químicos e promovendo práticas preventivas e curativas mais sustentáveis e ecologicamente corretas."
-    ,
-    date: "08/05",
-    time: "08:00-09:30",
-    place: 'Auditório 2 (Área II)',
-  },
-  {
-    title: "Uso de drones para liberação de macrobiológicos ",
-    instructor: "Lorenzo Czepak Gaston e Ana Makowich ",
-    institution: `Drones on Farm e MIP-UFG`,
-    desc: `O uso de drones para liberação de macrobiológicos é uma técnica inovadora que tem sido cada vez mais utilizada na agricultura para controle biológico de pragas. Macrobiológicos são organismos vivos, como insetos, ácaros e nematoides, que são utilizados para o controle de pragas agrícolas, em substituição aos agrotóxicos.
-    Os drones são utilizados para liberar os macrobiológicos nas áreas de cultivo de forma mais eficiente e precisa, em comparação com a liberação manual. Com o uso dos drones, é possível alcançar áreas de difícil acesso e distribuir os macrobiológicos de maneira uniforme, reduzindo o desperdício e aumentando a eficácia do controle biológico.
-    Além disso, o uso de drones para liberação de macrobiológicos também pode reduzir os custos e o tempo necessários para a aplicação dos organismos de controle biológico, em comparação com as técnicas convencionais. A técnica também pode contribuir para a redução do uso de defensivos químicos e a promoção de práticas mais sustentáveis na agricultura.
-    A tendência é que essa tecnologia se torne cada vez mais popular e acessível, com a evolução da tecnologia e a demanda por práticas mais sustentáveis na agricultura.
-    `,
-    date: "08/05",
-    time: "10:00-11:30",
-    place: "Auditório 2 (Área II)",
-  },
-  {
-    title: "Durabilidade de Geossintéticos",
-    instructor: "Jefferson Lins",
-    institution: "Universidade de São Paulo",
-    desc: `Durabilidade de Geossintéticos`,
-    date: "09/05",
-    time: "19:00-20:30",
-    place: "Online: YouTube",
-    link:"https://www.youtube.com/watch?v=8kJZoBHnn_4"
   
-  },
   {
-    title: "Aplicações geotécnicas e ambientais das geomembranas",
-    instructor: "Maria Alejandra Aparicio Ardila",
-    institution: "Nortene Plásticos",
-    desc: `Atualmente, a geomembrana de Polietileno é o único tipo de geossintético exigido pelos órgãos ambientais para garantir a segurança na destinação dos resíduos gerados em diversos tipos de indústrias. É um material polimérico de baixíssima permeabilidade, que atua como barreira, impedindo a passagem de fluidos, gases e vapores. Está presente em todos os sistemas de impermeabilização, desde a barreira simples até a barreira composta. É utilizado em diferentes trabalhos hidráulicos para o armazenamento ou condução de água. Nesta palestra serão abordadas algumas aplicações da geomembrana de polietileno.`,
-    date: "10/05",
-    time: '10:00-11:30',
-    place: "Auditório 2 (Área II)",
-  },
-
-  {
-    title: "TI: Caminhos e oportunidades dentro de um mar de possibilidades",
-    instructor: "Patrick Morais de Souza Lima",
-    institution: "Gerente de Engenharia e Qualidade de Software na GFT Technologies",
-    desc: `Atualmente, nós da área de TI, vivemos em um mundo de possibilidades e incertezas. Foi pensando nisso que trouxe o tema "TI: Caminhos e oportunidades dentro de um mar de possibilidades", que irá falar um pouco de como planejar e o que fazer para ter uma carreira promissora dentro da área que mais cresce mundialmente. Qual caminho seguir? Como escolher sua carreira? Como ser um profissional desejado pelas empresas de tecnologia? Tudo isso será discutido no dia 10/05. Nos vemos lá!`,
-    date: "09/05",
-    time: "20:30-22:00",
-    place: "Auditório 1 (Área II)",
-  },
-
-  {
-    title:"Concursos de Projeto",
-    instructor: "Rangel Henrique Brandão Silva, Frederico André Rabelo e Guilherme de Andrade Bento",
-    institution: "Rangel Henrique Brandão Silva - UEG e RGB Estúdio, Frederico André Rabelo - PUC Goiás, UFG e RGB Estúdio, Guilherme de Andrade Bento - PUC Goiás e RGB Estúdio",
-    desc: `Abordagem dos concursos públicos de projetos de Arquitetura e Urbanismo, a partir da experiência do escritório RGB Estúdio.`,
-    date: "09/05",
-    time: "08:00-10:00",
-    place: "Auditório 1 (Área II)",
-  },
-  {
-    title: "Estudos de Impactos Urbanos e Engenharia de Tráfego",
-    instructor: "Evelyn Cristine Moreira Soares",
-    institution: "PUC Goiás",
-    desc: `O que são os Estudos de Impactos – Ambiental (EIA), de Vizinhança (EIV) e de Trânsito (EIT), a importância dos conhecimentos específicos, atuação profissional, mercado de trabalho.`,
-    date: "08/05",
-    time: "19:00-20:30",
-    place: "Auditório 3 (Área II)",
-  },
-  {
-    title: "Sistema Agroflorestal Biodiverso no Cerrado: Princípios e Dinâmicas",
-    instructor:"Dr. Bruno de Andrade Martins",
-    institution: "IFGoiano - Campus de Hidrolândia",
-    desc: `Os SAFs são sistemas agroflorestais biodiversos e possuem alta capacidade para melhorar o meio ambiente. São formados por plantios de diversas/diferentes espécies vegetais na mesma área e, ao mesmo tempo (consórcios). Nesses sistemas incluem-se árvores e arbustos nativos ou exóticos e culturas agrícolas de diferentes ciclos. 
-    Um dos importantes serviços ambientais que esses sistemas proporcionam é a melhoria do microclima. Ou seja, tanto a temperatura do ar como a do solo ficam mais estáveis, mais agradáveis aos agricultores(as) e a todas as espécies vegetais cultivadas, bem como aos organismos nativos que vivem nos SAFs, os quais ajudam a melhorar a qualidade do solo e o equilíbrio biológico.
-    Outro serviço ambiental destacável é a melhoria do ciclo da água, pois facilita a sua infiltração no solo, alimentando o lençol freático e, consequentemente, fortalecendo as nascentes e os mananciais superficiais de água.
-    Vários estudos também mostram o aumento da fertilidade, estrutura e da vida do solo, melhorando a sua qualidade, reduzindo e até dispensando o uso de fertilizantes.
-    Com o aumento do equilíbrio biológico nesses sistemas, ocorre baixo ataque de pragas e doenças nos cultivos agrícolas, tornando-se desnecessária a utilização de defensivos e, consequentemente, facilitando a viabilização da produção orgânica.
-    `,
-    date: "09/05",
-    time: "10:00-11:30",
-    place: "Auditório 2 (Área II)",
-    },
-
-  {
-    title:"Como trabalhar no lugar mais bonito do mundo",
-    instructor: "Rafael Gonçalves ",
-    institution: "Butchart Gardens ",
-    desc: `Butchart Gardens`,
-    date: "08/05",
-    time: "19:00-20:30",
-    place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGJmNGQxNDQtOTQ0Yi00MDJjLTlhM2ItNzFkY2RmMjhmZTIz%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-  },
-  {
-    title: "LION XPRO: DO BIM AO BEM INTELIGÊNCIA ARTIFICIAL APLICADA AO DESENVOLVIMENTO DE PROJETOS DE EDIFÍCIOS SUSTENTÁVEIS",
-    instructor: "Dr. Leônidas Albano e Dra. Maria José Pereira Dantas",
-    institution: `PUC Goiás`,
-    desc: `Discussões com o time da startup Lion xPRO a respeito das possibilidades atuais de inovação tecnológica, a partir da aplicação de inteligência artificial a ferramentas de avaliação ambiental e energética integradas ao desenvolvimento de projetos de edifícios, contribuindo com processos evolutivos de metodologias BIM (Building Information Modeling) a conceitos BEM (Building Energy Model).`,
-    date: '10/05',
-      time: '07:15-08:45',
-      place: 'Online',
-      link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODNlNzUwMTItMGM3OS00NTczLThkYmEtNTM2ZjFiOGYxOWY4%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    title: "PROTEGENDO O FUTURO: SEGURANÇA DA INFORMAÇÃO E INTELIGÊNCIA ARTIFICIAL NO MERCADO ATUAL.",
+    instructor: "Alisson Rodrigues Alaves",
+    institution: "UNIGOIÁS / FACULDADE SENAC - GO",
+    desc: `Destaca as tecnologias da segurança da informação integrada com Inteligência Artificial.`,
+    date: "17/04",
+    time: '08:00-09:30',
+    place: 'Auditório 2, área II',
     
-  },
+   },
+  
   {
-    title: "PESQUISA E PÓS-GRADUAÇÃO NA ARQUITETURA, NO URBANISMO E NO DESIGN",
-    instructor: "Deusa Maria Rodrigues Boaventura e Sandra Catharinne Pantaleão Resende",
+    title: "Estado da Arte em Sistemas e Aplicações para Gerenciamento de Projetos de TI",
+    instructor: "Messias Reis",
+    institution: "Mundo de Projetos",
+    desc: 'A palestra "Estado da Arte em Sistemas e Aplicações para Gerenciamento de Projetos de TI" abordará como a diferenciação entre projetos, processos e rotinas impacta na eficiência organizacional, especialmente em contextos de TI. Enfatizando a necessidade de distinguir projetos com início, meio e fim das atividades rotineiras, a apresentação introduzirá uma metodologia inovadora focada em aplicações computacionais para categorizar demandas e aplicar o gerenciamento adequado. Utilizando um fluxo metodológico que incorpora um modelo de tomada de decisão e uma classificação matemática baseada na matriz Stacey, a proposta visa otimizar o gerenciamento de projetos de tecnologia da informação alinhando métodos apropriados às características e requisitos específicos de cada demanda. A metodologia, apoiada na classificação por prioridades do protocolo de Manchester, tem se mostrado um possível marco na utilização de de softwares e aplicação estratégias diferenciadas para o gerenciamento de projetos, processos e rotinas no universo da tecnologia da informação.',
+    date: "17/04",
+    time: "19:00-20:30",
+    place: 'Auditório 2, área II',
+      
+   },
+  
+  {
+    title: "Panorama da Arquitetura em Goiás: Séculos XVIII, XIX e XX",
+    instructor: "Eurípedes Afonso da Silva Neto",
+    institution: "UFG",
+    desc: "Apresentação de parte da arquitetura realizada em Goiás durante os séculos XVIII, XIX e XX. Um panorama uniformizado graficamente através do olhar sobre cem edifícios. Organizando assim uma crônica da transformação da região por meio de suas edificações, demonstrando como foram espelho de um ideal político, social e arquitetônico que permeou a produção local.",
+    date: "17/04",
+    time: "19:00-20:30",
+    place: "Auditório Mariza Roriz, área III",
+  },
+  
+  {
+    title: "Vencendo Hackathons!",
+    instructor: "Franklin Silva de Castro Bonfim",
+    institution: "Serviço Nacional de Aprendizagem Comercial (SENAC-GO)",
+    desc: 'A palestra "Vencendo Hackathons", destinada a graduandos de Análise e Desenvolvimento de Sistemas, Ciência da Computação, Ciência de Dados e IA e Engenharia de Computação, promete ser uma fonte inestimável de conhecimento e estratégias para aqueles interessados em se destacar nesses eventos competitivos de programação. Os palestrantes, com experiência comprovada em hackathons, compartilharão insights sobre como abordar esses desafios, enfatizando a importância do trabalho em equipe, pensamento criativo e habilidades técnicas afiadas. A apresentação cobrirá desde a preparação pré-evento, como formar equipes equilibradas e desenvolver uma mentalidade vencedora, até técnicas eficazes de brainstorming, prototipagem rápida e apresentação de projetos. Além disso, os participantes aprenderão como maximizar recursos limitados sob pressão de tempo, transformando ideias inovadoras em protótipos funcionais que impressionam os jurados. Essa palestra é uma oportunidade imperdível para quem aspira a dominar a arte de vencer hackathons, preparando os estudantes não apenas para competir, mas para triunfar nesse ambiente estimulante e altamente competitivo.',
+    date: "17/04",
+    time: "20:30-22:00",
+    place: 'Auditório 2, área II',
+  },
+  
+  {
+    title: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
+    instructor: "Eng. Ana Renata Volpini Litfalla",
+    institution: `CREA-GO `,
+    desc: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
+    date: "17/04",
+    time: "10:00-11:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title: "Potencialidade da fruticultura no Centro-Oeste",
+    instructor: " Uirá do Amaral",
+    institution: "IFGoiano - Urutaí",
+    desc: `A fruticultura tem se destacado no Brasil como uma das principais atividades agropecuárias, demonstrando influência no setor econômico e social.  A região Centro Oeste que lidera na produção nacional de grãos, onde a mesma por possuir microrregiões bem definidas em seus estados, viabiliza o emprego da fruticultura em todos eles, visto que cada microrregião dispõe de condições especificas de temperatura, solo e umidade para cada tipo de cultura que venha a ser cultivada.`,
+    date: "18/04",
+    time: "08:00-09:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title: "Lei Geral de Proteção de Dados, até que ponto a Inteligência Artificial pode me ajudar",
+    instructor: "Antônio Generoso",
+    institution: "Consultor em LGPD",
+    desc: `Apresentação a respeito da LGPD  com IA`,
+    date: "18/04",
+    time: '08:00-09:30',
+    place: "Auditório 2, área II",
+  },
+  
+  {
+    title: "Meio Ambiente e Comercialização Agrícola",
+    instructor: "André Luiz Miranda Silva Zopelari",
+    institution: "AcadGeo",
+    desc: "Meio Ambiente e Comercialização Agrícola",
+    date: "18/04",
+    time: "10:00-11:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title:"De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro",
+    instructor: "João Paulo Marinho Martiins",
+    institution: "Sorcero",
+    desc: "Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.",
+    date: "18/04",
+    time: "19:00-20:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title: "Praticas de Manejo e Conservação do Solo",
+    instructor: "Vladia Correchel",
+    institution: "Escola de Agronomia UFG",
+    desc: `Praticas de Manejo e Conservação do Solo`,
+    date: "19/04",
+    time: "08:00-09:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title: "A crítica da arquitetura contemporânea: sobre o prêmio Pritzker",
+    instructor:"Sandra Catharinne Pantaleão Resende",
+    institution: "PUC Goiás, UEG",
+    desc: `O prêmio Pritzker, desde 1982, aponta o arquiteto de maior destaque anualmente em que são consideradas suas contribuições para a disciplina, seja pela produção teórica ou prática. A partir de uma perspectiva histórica, apresentam-se reflexões sobre as transformações do campo disciplinar nos últimos 40 anos tendo em vista a consolidação e crise do Movimento Moderno, as manifestações pós-modernas e as posturas após a crise de 2008. 
+    Toma-se como referência para as reflexões as posturas dos vencedores com o contexto histórico permitindo indicar mudanças na produção e crítica arquitetônica associadas aos desafios do século XXI.`,
+    date: "19/04",
+    time: "08:00-09:30",
+    place: "Auditório Mariza Roriz, área III",
+    },
+  
+  {
+    title:"Modelos Hidrológicos",
+    instructor: "Elizon Nunes",
+    institution: "Labogef/UFG",
+    desc: `Modelos Hidrológicos`,
+    date: "19/04",
+    time: "10:00-11:30",
+    place: "Auditório 3, área II",
+  },
+  
+  {
+    title: "Visualizando o Invisível: A Arte da Representação Gráfica em Ciência de Dados",
+    instructor: "Rodolfo Wenceslau R. Mota ",
+    institution: `SEBRAE-GO`,
+    desc: `Nessa palestra, mergulharemos na interseção fascinante entre a Ciência de Dados, a Inteligência Artificial e a incrível habilidade humana de traduzir dados complexos em representações visuais impactantes. Descubra como a aplicação de técnicas avançadas de visualização, aliada ao poder da Inteligência Artificial, desvenda padrões, insights e conexões que escapam à observação comum. Vamos juntos desvendar o invisível?`,
+    date: '19/04',
+    time: '19:00-20:30',
+    place: 'Auditório 2, área II',    
+  },
+  
+  {
+    title: "Planejamento Urbano - Qual é a cidade que queremos?",
+    instructor: "Benjamim Jorge Rodrigues dos Santos",
     institution: "PUC Goiás",
     desc: `Discussões a respeito da realização de projeto de pesquisa e de cursos de pós-graduação ligados aos cursos da Escola Politécnica e de Artes.`,
-    date: "09/05",
-    time: "19:00-20:30",
-    place: "Auditório 2 (Área II)",
+    date: "19/04",
+    time: "09:00-10:30",
+    place: "Auditório 2, área II",
   },
   
   {
-    title: "Experimentações Editoriais ",
-    instructor: "Lucia Bertazzo",
-    institution: "Lisboa, Portugal",
-    desc: `A palestra da egressa do curso de Design da PUC Goiás, Lucia Bertazzo, vai abordar sua trajetória com experimentações gráficas que busca a melhor forma de unir artes plásticas e literatura. Seu trabalho é transformar livros em verdadeiras obras de arte com uma série de edições que contam com uma grande pesquisa de materiais e a colaboração de dezenas de tipógrafos, impressores de gravuras ou serigrafias, marceneiros, artífices em acrílico ou aço, fabricantes de papéis artesanais, moldureiros...e importantes artesãos. `,
-    date: "08/05",
-    time: "10:00-11:30",
-    place: "Online: YouTube",
-    link: "https://www.youtube.com/watch?v=z-jTl09YYlI"
+    title: "Palestra de abertura do VI Desafio em Ciências de Dados: Oportunidades e Desafios na era da Inteligência Artificial massificada",
+    instructor: "Aníbal Tavares de Azevedo",
+    institution: "Univesp/Canal próprio no YouTube",
+    desc: `Nessa conversa serão apontados alguns desenvolvimentos da inteligência artificial massificada em diversos campos. Diversas aplicações práticas serão abordadas e exemplificadas. Possibilidades de novos negócios para resolver as dores do mundo combinando o uso das tecnologias habilitadoras da indústria 4.0 em conjunto com a inteligência artificial serão discutidas.`,
+    date: "18/04",
+    time: "20:00-21:00",
+    place: "Online: Teams ",
+    /*link: "Em Breve"*/
   },
+  
   {
-    title: "Projeto Pormade Móvel",
-    instructor: "Representante da Pormade Portas ",
-    institution: "Pormade Portas",
-    desc: `Independente de onde você estiver, a Pormade vai até você! O projeto do Pormade Móvel tem como objetivo divulgar os produtos e serviços da empresa além das barreiras geográficas. O veículo passa por eventos de inúmeras cidades para que a comunidade local possa conhecer de perto o que a Pormade oferece ao mercado.
-    O primeiro Showroom Móvel da Pormade estreou na “Feicon Batimat em 2019, depois dos comentários positivos sobre a novidade, a frota cresceu e os veículos passaram por vários eventos importantes e tradicionais de diferentes cidades, como Design Fair, Expoingá, Kiwi Fest, Feicon, High Design, Equipotel, ConstruSul, lojas de materiais de construção, entre outros.
-    Ele apresenta em sua carroceria os modelos de portas da Pormade, as estampas dos papéis de parede, piso vinilico, rodapés e fechaduras. Além disso, mesas e cadeiras ficam dispostas próximas aos veículos para que os visitantes conversem com os especificadores e analisem os catálogos.
-    A arquitetura dos veículos do projeto conta ainda com uma televisão, na qual vídeos sobre a cultura Pormade são exibidos durante as participações nas feiras.
-    O Pormade Móvel participa de vários eventos, feiras e faz visitas aos seus parceiros como lojas, arquitetos, engenheiros e instaladores.
-    `,
-    date: "09/05",
-    time: "09:00-10:30",
-    place: "Auditório Marisa Roriz (Área III)",
-  },
+    title: "Por que somos minoria em STEM? Roda de Conversa: Mulheres na Ciência",
+    instructor: "Marta Pereira da Luz",
+    institution: "PUC Goiás e Eletrobrás Furnas",
+    desc: `Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a participação de mulheres em áreas de STEM e será discutido sobre as questões históricas da mulher nestes cenários.
 
+    A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois desempenham um papel essencial nas comunidades de ciência e tecnologia. `,
+    date: "19/04",
+    time: "21:00-22:00",
+    place: "Online: Teams ",
+    /*link: "Em Breve"*/
+  },
+/*
   {
     title: "Ai.rtista, uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte",
     instructor: "João Paulo de Morais Alves",
