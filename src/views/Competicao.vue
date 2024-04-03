@@ -23,7 +23,7 @@
             <img :src="comp.image" id="maratona-photo" />
 
             <div class="desc-text">
-              <p v-html= comp.desc ></p>
+              <p v-html= comp.desc></p>
               <h5 :title="comp.instructor">Instrutor: {{ comp.instructor }}</h5>
               <h6 class="patrocinador" v-if="comp.patrocinador">
                 Patrocinador: {{ comp.patrocinador }}
@@ -122,6 +122,7 @@ export default class competicoes extends Vue {
     this.all_competicoes = Competicoes
   }
 }
+
 </script>
 
 <style scoped>
