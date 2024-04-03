@@ -31,7 +31,7 @@
                   <hr />
                   <div>
                     <span id="description">
-                      O uso da Inteligência Artificial a serviço da sociedade
+                      Inovações Tecnológicas para o desenvolvimento humano integral
                     </span>
                   </div>
                 </div>

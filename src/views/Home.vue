@@ -64,7 +64,7 @@
             <v-flex>
               <p class="text-justify text-center">
                 A III JCPOLI será realizada de 17 a 20 de Abril de 2024, com tema:
-                O uso da Inteligência Artificial a serviço da sociedade. 
+                Inovações Tecnológicas para o desenvolvimento humano integral. 
                 É com alegria que o convidamos para enviar um artigo para o comitê científico.
               </p>
             </v-flex>

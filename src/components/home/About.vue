@@ -9,10 +9,10 @@
           Temos a alegria de anunciar a realização da III Jornada Científica da
           Escola Politécnica e de Artes (III JCPOLI) da Pontifícia Universidade Católica de
           Goiás (PUC Goiás) que será realizada de 17 a 20 de Abril de 2024. A III
-          JCPOLI tem como tema O uso da Inteligência Artificial a serviço da sociedade,
+          JCPOLI tem como tema Inovações Tecnológicas para o desenvolvimento humano integral,
           oferecendo atividades: palestras, mesa redonda, minicursos, competições e exposições.
-        <p/>
-        
+        </p>
+        <!--
         <v-flex xs12 class="text-xs-left" mt-5>
           <h3>Escola promove arrecadação de alimentos durante a JCPOLI</h3>
         </v-flex>
@@ -41,9 +41,8 @@
             Os alimentos doados devem ser não perecíveis (são aqueles que podem ser guardados por períodos longos e trazem menores dificuldades à conservação) e as roupas em boas condições (devem ser roupas novas ou seminovas com pouco uso).
           </p>
         </v-flex>
-        </p>
+         -->
       </v-flex>
-      
       <v-flex xs12 class="text-xs-left" mt-5>
         <h2>Trabalhos de conclusão de curso</h2>
       </v-flex>

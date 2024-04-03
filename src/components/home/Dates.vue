@@ -67,7 +67,7 @@ export default class Dates extends Vue {
     },
     {
       date: '19 de abril de 2024',
-      event: 'Apresentação dos artigos e resumos expandidos na II JCPOLI',
+      event: 'Apresentação dos artigos e resumos expandidos na III JCPOLI',
       disabled: false
     }
   ]
