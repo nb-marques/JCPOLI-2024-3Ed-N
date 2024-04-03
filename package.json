@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "node server.js"
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider&& node server.js"
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
