@@ -1,14 +1,73 @@
 
 let Courses = [
   {
-    title: "",
-    instructor: "",
-    institution: "",
-    desc: ``,
+    title: "Introdução ao Power BI",
+    instructor: "Felipe Correa Veloso Dos Santos",
+    institution: "PUC-Goiás",
+    desc: `Introdução ao Power BI`,
     date: "17/04",
-    time: "",
-    place: "",
-    link: ""
+    time: "14:00-17:00",
+    place: "Lab. Informática: sala 101, bloco C, área II",
+  }, 
+
+  {
+    title: "Introdução ao Power BI",
+    instructor: "Felipe Correa Veloso Dos Santos",
+    institution: "PUC-Goiás",
+    desc: `Introdução ao Power BI`,
+    date: "18/04",
+    time: "14:00-17:00",
+    place: "Lab. Informática: sala 101, bloco C, área II",
+  }, 
+
+  {
+    title: "Módulos úteis em Python",
+    instructor: "Rafael Leal Martins",
+    institution: "PUC Goiás e Fundação Jaime Câmara",
+    desc: `A oficina apresentará módulos da linguagem Python, para solucionar diversos problemas computacionais.`,
+    date: "18/04",
+    time: "09:00-10:30",
+    place: "Lab. Informática: sala 101, bloco C, área II",
+  }, 
+
+  {
+    title: "Produção de óleos essenciais",
+    instructor: "Ronice Alves Veloso",
+    institution: "Faculdades Integradas da América do Sul (INTEGRA)",
+    desc: `Produção de óleos essenciais`,
+    date: "18/04",
+    time: "14:00-17:00",
+    place: "Lab. Química: sala 007, bloco H, área III",
+  }, 
+
+  {
+    title: "Produção de óleos essenciais",
+    instructor: "Ronice Alves Veloso",
+    institution: "Faculdades Integradas da América do Sul (INTEGRA)",
+    desc: `Produção de óleos essenciais`,
+    date: "19/04",
+    time: "14:00-17:00",
+    place: "Lab. Química: sala 007, bloco H, área III",
+  }, 
+
+  {
+    title: "Módulos úteis em Python",
+    instructor: "Rafael Leal Martins",
+    institution: "PUC Goiás e Fundação Jaime Câmara",
+    desc: `A oficina apresentará módulos da linguagem Python, para solucionar diversos problemas computacionais.`,
+    date: "19/04",
+    time: "09:00-10:30",
+    place: "Lab. Informática: sala 101, bloco C, área II",
+  }, 
+
+  {
+    title: "Módulos úteis em Python",
+    instructor: "Rafael Leal Martins",
+    institution: "PUC Goiás e Fundação Jaime Câmara",
+    desc: `A oficina apresentará módulos da linguagem Python, para solucionar diversos problemas computacionais.`,
+    date: "19/04",
+    time: "20:30-22:00",
+    place: "Lab. Informática: sala 101, bloco C, área II",
   }, 
 
   /* 
