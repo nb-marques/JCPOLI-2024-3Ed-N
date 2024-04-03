@@ -165,5 +165,10 @@ export const ComiteListCientific =
       coordenador: 'Tai Hsuan An',
       area: 'Mestrado em Artes Visuais - UFG'
     },
+    {
+      coordenador: 'Sandra Catharinne Pantaleão Resende',
+      area: 'Doutora em Arquitetura e Urbanismo - UnB'
+    },
+
   ]
 
