@@ -1,12 +1,12 @@
 const Competicao = [
   {
-    title: "",
-  instructor: "",
-  institution: "",
-  desc: ``,
-  date: "",
-  time: "",
-  place: "",
+    title: "XX",
+  instructor: "XX",
+  institution: "XX",
+  desc: `XX`,
+  date: "XX",
+  time: "XX",
+  place: "XX",
   image: "assets/img/slider/logo-maratona.jpeg"
   },
   /*
