@@ -35,16 +35,6 @@ const Exposicao_Arquitetura = [
     image: "assets/img/slider/Capa_do_livro_FREDERICO_ANDRE_RABE.jpeg"
   },
 
-  {
-    title: "Oficina: A pesquisa nos campos de Arquitetura e Urbanismo e Design.",
-    instructor: "Deusa Maria Rodrigues Boaventura",
-    desc: `A pesquisa na graduação desempenha um importante papel no desenvolvimento acadêmico e profissional dos docentes e discentes. Ao se envolver em atividades de pesquisa, o aluno tem a possibilidade de aprofundar seu conhecimento sobre determinados temas, desenvolver habilidades de pensamento crítico, analítico e criativo, de forma estruturada e metódica. A presente oficina visa apresentar para toda a comunidade da Escola Politécnica e de Artes, as pesquisas que estão sendo realizadas nos cursos de arquitetura e urbanismo e design, permitindo assim a divulgação de novos conhecimentos e a necessária ampliação de debates entre pesquisadores, quer sejam eles professores ou alunos. `,
-    date: "19/04/2024 (Sexta);",
-    time: "10:00",
-    place: "Auditório Mariza Roriz, área III",
-    image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
-  },
-
 
 
   /*

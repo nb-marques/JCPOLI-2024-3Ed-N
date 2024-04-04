@@ -106,7 +106,7 @@ let Palestras = [
   {
     title: "Praticas de Manejo e Conservação do Solo",
     instructor: "Vladia Correchel",
-    institution: "Escola de Agronomia UFG",
+    institution: "Escola de Agronomia UFG (Laboratório de Física do Solo)",
     desc: `Praticas de Manejo e Conservação do Solo`,
     date: "19/04",
     time: "08:00-09:30",
@@ -148,7 +148,7 @@ let Palestras = [
     title: "Planejamento Urbano - Qual é a cidade que queremos?",
     instructor: "Benjamim Jorge Rodrigues dos Santos",
     institution: "PUC Goiás",
-    desc: `Discussões a respeito da realização de projeto de pesquisa e de cursos de pós-graduação ligados aos cursos da Escola Politécnica e de Artes.`,
+    desc: `Palestra ministrada pelo Prof. Dr. Benjamim Jorge discutindo questões fundamentais de mobilidade urbana.`,
     date: "19/04",
     time: "09:00-10:30",
     place: "Auditório 2, área II",
@@ -170,13 +170,25 @@ let Palestras = [
     instructor: "Marta Pereira da Luz",
     institution: "PUC Goiás e Eletrobrás Furnas",
     desc: `Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a participação de mulheres em áreas de STEM e será discutido sobre as questões históricas da mulher nestes cenários.
-
+    
     A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois desempenham um papel essencial nas comunidades de ciência e tecnologia. `,
     date: "19/04",
     time: "21:00-22:00",
     place: "Online: Teams ",
     /*link: "Em Breve"*/
   },
+
+  {
+    title: "Oficina: A pesquisa nos campos de Arquitetura e Urbanismo e Design.",
+    instructor: "Deusa Maria Rodrigues Boaventura",
+    institution: "PUC Goiás",
+    desc: `A pesquisa na graduação desempenha um importante papel no desenvolvimento acadêmico e profissional dos docentes e discentes. Ao se envolver em atividades de pesquisa, o aluno tem a possibilidade de aprofundar seu conhecimento sobre determinados temas, desenvolver habilidades de pensamento crítico, analítico e criativo, de forma estruturada e metódica. A presente oficina visa apresentar para toda a comunidade da Escola Politécnica e de Artes, as pesquisas que estão sendo realizadas nos cursos de arquitetura e urbanismo e design, permitindo assim a divulgação de novos conhecimentos e a necessária ampliação de debates entre pesquisadores, quer sejam eles professores ou alunos. `,
+    date: "19/04",
+    time: "10:00",
+    place: "Auditório Mariza Roriz, área III",
+    image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
+  },
+
 /*
   {
     title: "Ai.rtista, uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte",

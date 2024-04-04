@@ -60,6 +60,9 @@
           >.
         </p>
       </v-flex>
+      <v-flex mt-5>
+        <img src="assets/img/slider/QR-code-monitoria.jpg" style="width:100%;" alt="">
+      </v-flex>
     </v-layout>
   </div>
 </template>

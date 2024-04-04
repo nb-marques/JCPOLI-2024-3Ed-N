@@ -1,20 +1,20 @@
 
 let Courses = [
   {
-    title: "Introdução ao Power BI",
+    title: "Introdução ao Power BI - Parte 1",
     instructor: "Felipe Correa Veloso Dos Santos",
     institution: "PUC-Goiás",
-    desc: `Introdução ao Power BI`,
+    desc: `Parte 1 do mini-curso: "Introdução ao Power BI".`,
     date: "17/04",
     time: "14:00-17:00",
     place: "Lab. Informática: sala 101, bloco C, área II",
   }, 
 
   {
-    title: "Introdução ao Power BI",
+    title: "Introdução ao Power BI - Parte 2",
     instructor: "Felipe Correa Veloso Dos Santos",
     institution: "PUC-Goiás",
-    desc: `Introdução ao Power BI`,
+    desc: `Parte 2 do mini-curso: "Introdução ao Power BI"`,
     date: "18/04",
     time: "14:00-17:00",
     place: "Lab. Informática: sala 101, bloco C, área II",
@@ -31,20 +31,20 @@ let Courses = [
   }, 
 
   {
-    title: "Produção de óleos essenciais",
+    title: "Produção de óleos essenciais - Parte 1",
     instructor: "Ronice Alves Veloso",
     institution: "Faculdades Integradas da América do Sul (INTEGRA)",
-    desc: `Produção de óleos essenciais`,
+    desc: `Parte 1 do mini-curso: "Produção de óleos essenciais"`,
     date: "18/04",
     time: "14:00-17:00",
     place: "Lab. Química: sala 007, bloco H, área III",
   }, 
 
   {
-    title: "Produção de óleos essenciais",
+    title: "Produção de óleos essenciais - Parte 2",
     instructor: "Ronice Alves Veloso",
     institution: "Faculdades Integradas da América do Sul (INTEGRA)",
-    desc: `Produção de óleos essenciais`,
+    desc: `Parte 2 do mini-curso: "Produção de óleos essenciais"`,
     date: "19/04",
     time: "14:00-17:00",
     place: "Lab. Química: sala 007, bloco H, área III",

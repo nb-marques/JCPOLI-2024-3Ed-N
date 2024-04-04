@@ -8,7 +8,7 @@
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/orientprofaluno.pdf"
+              href="/assets/Orientações_professores_e_alunos_II_JC_POLI_v2.pdf"
               target="_blank"
             >
               ACESSAR ORIENTAÇÕES
