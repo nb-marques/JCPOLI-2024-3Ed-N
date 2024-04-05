@@ -3,9 +3,9 @@ const Competicao = [
     title: "VI DESAFIO EM CIÊNCIA DE DADOS",
   instructor: "Maria José Pereira Dantas, José Elmo de Menezes.",
   institution: "PUC Goiás",
-  desc: `Palestra de abertura do VI Desafio em Ciências de Dados
+  desc: `1.Palestra de abertura do VI Desafio em Ciências de Dados
   <br>Dr. Aníbal Tavares de Azevedo.
-  <br>Título: Oportunidades e Desafios na era da Inteligência Artificial massificada.
+  <br>Título: <b>Oportunidades e Desafios na era da Inteligência Artificial massificada.</b>
   <br>Resumo: Nessa conversa serão apontados alguns desenvolvimentos da inteligência
 artificial massificada em diversos campos. Diversas aplicações práticas serão abordadas
 e exemplificadas. Possibilidades de novos negócios para resolver as
@@ -13,32 +13,29 @@ dores do mundo combinando o uso das tecnologias habilitadoras da indústria 4.0 
 conjunto com a inteligência artificial
 serão discutidas.
 <br>Data: 18/04, 20 às 21h
+<br>Online, no Teams.
+<br>
+<br>2. Roda de Conversa: Mulheres na Ciência
+<br>Resumo: A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e
+Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas
+experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar
+meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as
+áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do
+mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois
+desempenham um papel essencial nas comunidades de ciência e tecnologia.
+<br>Palestra: <b>Por que somos minoria em STEM?</b>
+<br>Marta Pereira da Luz (30 min)
+<br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
+participação de mulheres em áreas de STEM e será discutido sobre as questões
+históricas da mulher nestes cenários.
+<br>Em seguida teremos interação com os participantes (30min)
+<br>Data: 19/04, 21 às 22h
 <br>Online, no Teams.`,
-  date: "18/04",
-  time: "20 às 21h",
+  date: "18/04 a 19/04",
+  time: "20 às 21h no primeiro dia, 21 às 22h no segundo dia",
   place: "Teams",
   image: "assets/img/slider/logo-maratona.jpeg"
   },
-
-  /*
-  <br>
-  <br>2. Roda de Conversa: Mulheres na Ciência
-  <br>Resumo: A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e
-  Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas
-  experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar
-  meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as
-  áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do
-  mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois
-  desempenham um papel essencial nas comunidades de ciência e tecnologia.
-  <br>Palestra: Por que somos minoria em STEM?
-  <br>Marta Pereira da Luz (30 min)
-  <br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
-  participação de mulheres em áreas de STEM e será discutido sobre as questões
-  históricas da mulher nestes cenários.
-  <br>Em seguida teremos interação com os participantes (30min)
-  <br>Data: 19/04, 21 às 22h
-  <br>Online, no Teams.
-  */
   /*
   {
     title: "Maratona de Programação - Primeiro Período",

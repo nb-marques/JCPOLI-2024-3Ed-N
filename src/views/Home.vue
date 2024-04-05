@@ -347,9 +347,9 @@ Está com Diretor de filiação do Project Management Instituto - PMI, capítulo
   {
     name: 'Sandra Catharinne Pantaleão Resende',
     institution: 'PUC Goiás / UEG',
-    speaking: 'Praticas de Manejo e Conservação do Solo',
+    speaking: 'A crítica da arquitetura contemporânea: sobre o prêmio Pritzker',
     description: `Doutorado em Arquitetura e Urbanismo pela Universidade de Brasília (2016). Mestre em Geografia - Dinâmica Sócio-Ambiental, pela UEL (2010). Graduada em Arquitetura e Urbanismo pela PUC Goiás (2006) e em Artes Visuais - habilitação Design Gráfico pela UFG (2000). Mãe da Ana Caroline (2012) e do Paulo Vitor (2018). Líder do Grupo de Pesquisa Cidade, Morfologia, Paisagem e Morfologia (CIMPARQ - CNPQ/PUC Goiás). Docente desde 2009 na UEG e, 2010, na PUC Goiás nos cursos de Arquitetura e Urbanismo e, desde 2019, nos Programa de Pós Graduação em Desenvolvimento e Planejamento Territorial e no Programa de Pós Graduação em História ambos da PUC/Goiás, além de orientação de alunos de Iniciação Científica vinculados às bolsas PIBIC/CNPQ e BIC/PUC Goiás desde 2014.`,
-    subjectResume: `Praticas de Manejo e Conservação do Solo`,
+    subjectResume: `O prêmio Pritzker, desde 1982, aponta o arquiteto de maior destaque anualmente em que são consideradas suas contribuições para a disciplina, seja pela produção teórica ou prática. A partir de uma perspectiva histórica, apresentam-se reflexões sobre as transformações do campo disciplinar nos últimos 40 anos tendo em vista a consolidação e crise do Movimento Moderno, as manifestações pós-modernas e as posturas após a crise de 2008. Toma-se como referência para as reflexões as posturas dos vencedores com o contexto histórico permitindo indicar mudanças na produção e crítica arquitetônica associadas aos desafios do século XXI.`,
     img: '/assets/img/speakers/Sandra_FREDERICO.jpeg',
     customSize: '100%',
     datentime: {
