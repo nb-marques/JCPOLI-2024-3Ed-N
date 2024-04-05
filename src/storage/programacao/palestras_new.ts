@@ -165,7 +165,7 @@ let Palestras = [
     /*link: "Em Breve"*/
   },
   
-  {
+  /*{
     title: "Por que somos minoria em STEM? Roda de Conversa: Mulheres na Ciência",
     instructor: "Marta Pereira da Luz",
     institution: "PUC Goiás e Eletrobrás Furnas",
@@ -175,8 +175,9 @@ let Palestras = [
     date: "19/04",
     time: "21:00-22:00",
     place: "Online: Teams ",
-    /*link: "Em Breve"*/
+    //link: "Em Breve"
   },
+  */
 
   {
     title: "Oficina: A pesquisa nos campos de Arquitetura e Urbanismo e Design.",
