@@ -189,245 +189,241 @@ let Palestras = [
     image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
   },
 
-/*
+
   {
-    title: "Ai.rtista, uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte",
-    instructor: "João Paulo de Morais Alves",
+    title: "Trajetórias pelo Design",
+    /*instructor: 'João Paulo de Morais Alves',*/
     institution: "PUC Goiás",
-    desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,
-    date: "08/05",
-    time: "08:00-09:30",
+    /*desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,*/
+    date: "18/04",
+    time: "08:30",
     place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxZDYzYTMtZWVhZS00ODFmLThhMjMtMjI4YmY2MmFhMDhi%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    link: "https://www.youtube.com/watch?v=ElxIwc_aHWc"
   },
+  
   {
-    title: "CRÔNICAS DO IGPA",
-    instructor: "Frederico Mael e Marcos Costa de Freitas",
+    title: "Trajetórias em Design",
+    /*instructor: "Frederico Mael e Marcos Costa de Freitas",*/
     institution: "PUC Goiás",
-    desc: `O IGPA possui um acervo muito vasto, para cada peça há uma história, às vezes uma aventura perigosa, às vezes uma história engraçada. Assim, parte da "vida" dos artefatos está nessas histórias que expandem os seus sentidos. Nessa proposta vamos valorizar as crônicas e expor algumas peças do acervo. 
-    Faremos uma apresentação breve de alguns cortes de vídeos que retratam momentos de produção de registros do acervo. Os relatos das crônicas do trabalho de campo serão trabalhados ao longo da projeção.
-    `,
-    date: "09/05",
-    time: "10:00-11:30",
-    place: "Auditório 1 (Área II)",
-  },
-  {
-    title:"A IMAGEM DOS POVOS ORIGINÁRIOS BRASILEIROS ",
-    instructor: "José Alecrim e Marcos Costa de Freitas",
-    institution: "Ciranda da Arte - Governo de Goiás e PUC Goiás",
-    desc: `Roda de conversa sobre a representação dos povos originários brasileiros. Propõe-se um passeio rápido ao longo da história, cobrindo momentos chave do Brasil colônia até a atualidade. A representação iconográfica, arquétipos e os estereótipos produzidos dos povos originários. O tema será apresentado por duas pessoas na condição de coordenadores da roda de conversa. 
-    `,
-    date: "10/05",
-    time: "08:00-09:30",
-    place: "Auditório 3 (Área II)",
-  },
-
-  {
-    title: "Transformação Digital e Tendências",
-    instructor: "Aguinaldo Aragon Fernandes",
-    institution: "Consultor independente",
-    desc: `O Que é a Transformação Digital. As Novas Tecnologias e Tendências. Fazendo o Mapa da Transformação Digital. Avaliando a Maturidade da Transformação Digital. O Roadmap de Implementação. Transformação Digital no Poder Público.`,
-    date: "08/05",
-    time: "10:00-11:30",
+    /*desc: `xx`,*/
+    date: "18/04",
+    time: "10:00",
     place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDZmYWQzODItZTY4NS00ZWQxLWIwNjktOTgwMTAyNjE0YTky%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    link: "https://www.youtube.com/watch?v=UUlrAXK6Ltk"
   },
+  
   {
-    title: "Oficina Damata - Design e marcenaria tradicional",
-    instructor: "Thiago da Mata Santos",
-    institution: "Oficina Damata",
-    desc: `A Oficina Damata é uma marcenaria com foco em trabalhos em madeira, não uma Indústria. Aqui as peças são produzidas a partir de técnicas de marcenaria tradicional. Penso em peças que tragam conexão! Desejo que a textura, a cor, o cheiro, de cada cadeira, banco ou mesa, que você se sentará para sua refeição ou trabalho, te levem a vivências e lembranças.`,
-    date: "10/05",
-    time: "10:00-11:30",
-    place: "Auditório 3 (Área II)",
+    title:"Startups e ideias disruptivas",
+    /*instructor: "José Alecrim e Marcos Costa de Freitas",*/
+    institution: "Puc Goiás",
+    /*desc: `xx`,*/
+    date: "16/04",
+    time: "19:00",
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=ReVSnabmLEs"
   },
-
+  
   {
-    title: "Inteligências Artificiais Generativas: impactos e oportunidades",
-    instructor: "Weber Martins",
+    title: "Inteligência Artificial aplicada nas Pesquisas Científicas",
+    /*instructor: "Aguinaldo Aragon Fernandes",*/
+    institution: "Puc Goiás",
+    /*desc: `xx`,*/
+    date: "11/04",
+    time: "08:30",
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=ntECqnRu57k"
+  },
+  
+  {
+    title: "Potencialidades do Design",
+    /*instructor: "Thiago da Mata Santos",*/
+    institution: "Puc Goiás",
+    /*desc: `xx`,*/
+    date: "17/04",
+    time: "19:30",
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=tJXqGMl_iG4"
+  },
+  
+  {
+    title: "Design inclusivo, exclusivo e ancestral ",
+    /*instructor: "Weber Martins",*/
     institution: "PUC Goiás",
-    desc: `Explorar-se-á a evolução, implicações sociais e éticas, além das oportunidades e desafios das Inteligências Artificiais Generativas, apresentando reflexões importantes para a área de Engenharia de Computação.`,
-    date: "09/05",
-    time: "10:00-11:30",
-    place: "Auditório 3 (Área II)",
-  },
-
-  {
-    title: "Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores",
-    instructor: "Dr. Alexandre Delbem",
-    institution: "ICMC USP São Carlos",
-    desc: `Modelos confiáveis gerados automaticamente por aprendizado de múltiplas bases de dados heterogêneas: exemplos de aplicações em Insegurança Alimentar, Risco de Crédito e Projeto de Injetores`,
-    date: "08/05",
-    time: "19:00-20:30",
+    /*desc: `xx`,*/
+    date: "19/04",
+    time: "10:30",
     place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTQ4ZDUyYTYtMjI2MC00NDI0LWE0ZTQtY2M5NzA1M2U2ZjNj%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    link: "https://www.youtube.com/watch?v=pZjeisIMHZM"
   },
-
+  
   {
-    title: "Cidades Inteligentes e Sustentáveis: Ferramentas e Desafios",
-    instructor: "Raphael de Aquino Gomes",
-    institution: "Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG)",
-    desc: `O crescimento populacional desordenado, a poluição, a mudança climática e a falta de infraestrutura adequada têm impactos significativos no meio ambiente e na qualidade de vida em centros urbanos. Diante desse cenário, o conceito de cidades inteligentes e sustentáveis surge como uma abordagem promissora para resolver os problemas destes centros, utilizando tecnologias inovadoras, planejamento inteligente e uma visão integrada para melhorar a qualidade de vida dos moradores e proteger o meio ambiente. Nesta perspectiva, esta palestra busca apresentar as ferramentas e desafios envolvidos no desenvolvimento de cidades inteligentes e sustentáveis, além de discutir o impacto dessa transformação na vida das pessoas e oportunidades a serem exploradas.`,
-    date: "09/05",
-    time: "19:00-20:30",
+    title: "Como se Planejar para uma Carreira de TI Internacional",
+    /*instructor: "Dr. Alexandre Delbem",*/
+    institution: "PUC Goiás",
+    /*desc: `xx`,*/
+    date: "16/04/",
+    time: "20:30",
     place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzNkNzk4YzgtY2VhOC00M2M0LWEyZDEtMWY0YzZlNjcwYmMy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
+    link: "https://www.youtube.com/watch?v=j3m3TJS83d8"
   },
-
-  { 
-    title: 'De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro',
-    instructor: 'João Paulo Martins',
-    institution: 'Sorcero',
-    desc: `Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.`, 
-    date: '09/05',
-    time: '19:00-20:30',
-    place: 'Auditório 3 (Área II)'
-   },
+  
+  {
+    title: "Creator Economy, olhando para o futuro do empreendedorismo digital",
+    /*instructor: "Raphael de Aquino Gomes",*/
+    institution: "PUC Goiás",
+    /*desc: `xx`,*/
+    date: "18/04",
+    time: "19:00",
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=u3v8d7EBHYk"
+  },
   
   { 
-    title: 'Como soft skills podem lhe garantir uma vaga ou salvar o seu emprego',
-    instructor: 'Camila Christina Moreira.',
-    institution: 'Accenture Brasil.',
-    desc: `Soft skills é um tema bastante popular na gestão de carreira, mas a aplicação desse tema na realidade não considerado algo fácil. Será discutido a forma de compreender essa jornada de aprendizado constante e situações que podem nos trazer uma oportunidade ou fechar uma porta.`, 
-    date: '08/05',
-    time: '20:30-22:00',
-    place: 'Auditório 1 (Área II)'
-   },
-  
-
-  {
-    title: 'Como se comportar em uma entrevista de estágio',
-    instructor: 'DANILO GREGÓRIO.',
-    institution: 'Marcca Engenharia',
-    desc: `O palestrante é responsável pelo departamento Gente e Cultura da Marcca Engenharia e faz a seleção de estagiários para os diversos departamentos da empresa, ele trará dicas de como se comportar no momento de uma entrevista de estágio, como fazer seu currículo ficar mais atrativo para o entrevistador, e quais plataformas podem ajudar a alcançar seu estágio.`,
-    date: '08/05',
-    time: '18:00-19:30',
-    place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIxYzQwZTAtNmJiYS00ZmQxLWI5NTktNDQzODhlMjYzYTk0%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-   
-  },
-
-  {
-    title: 'Programa de Licenciatura em Gestão do Transporte Aéreo da Atlantica, Portugal',
-    instructor: 'Miguel Moreira',
-    institution: '',
-    desc:`O palestrante apresentará o curso de Licenciatura em Gestão do Transporte Aéreo da Universidade Atlantica, Portugal com vistas ao inicio de um intercambio internacional entre esta universidade e a PUC-Goiás.`,
-    date: '09/05',
-    time: '09:00-10:30',
-    place: "Online",
-    link:"https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmY3NGI0YjYtMzMyNS00MmE1LTkzY2QtZjk5OGI2NjZlZDMw%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-   
-  },
-
-  {
-    title: 'Setor Aeroagrícola Brasileiro',
-    instructor: 'Gabriella Meireles',
-    institution: '',
-    desc: `Apresentação do setor aeroagricola do Brasil.`,
-    date: '08/05',
-    time: '09:00-10:30',
-    place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWM0NGViNDItMTFlMi00MGQwLTliZWItNWJhY2ExYmM0MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-  
-  },
-  {
-    title: 'O poder do inglês no Marketing Digital: Uma visão integrada com a Engenharia de Produção',
-    instructor: 'Rener Baptista',
-    institution: 'CEO na iNexxus Global',
-    desc: `Nesta palestra, exploramos a importância do inglês no marketing digital e como isso está associado à engenharia de produção. Discutimos como o inglês pode ser a chave para desbloquear oportunidades no mercado global e como ele pode ajudar a melhorar a comunicação com clientes e colaboradores estrangeiros. Também falamos sobre a relação entre o inglês e a engenharia de produção, mostrando como a fluência no idioma pode ajudar a entender melhor processos produtivos e gerar insights valiosos. Ao final da palestra, os participantes terão uma compreensão mais profunda da importância do inglês no contexto do marketing digital e da engenharia de produção, e estarão equipados com ferramentas e insights para avançar em suas carreiras.`,
-    date: '10/05',
-    time: '19:00-20:30',
-    place: 'Online',
-    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWU1Yjk1YzgtNmNiMC00NDRjLThkMTctNDNjOGU0MDdjZDg2%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
-  },
-  {
-    title: 'IMPACTO NO LONGO PRAZO DA MOBILIDADE ELÉTRICA NO SISTEMA ELÉTRICO BRASILEIRO',
-    instructor: 'Rafael Bomaro Ferreira',
-    institution: 'AXS Energia – Florianópolis – SC',
-    desc: `Com o aumento das vendas de carros elétricos e híbridos surge a preocupação em relação à infraestrutura elétrica existente, e como faremos para recarregar tantos carros elétricos no futuro, um dos estudos que começou em 2016 pela Nissan e pela Renault foi o chamado "Vehicle-to-grid" (veículo para a rede) ou V2G onde as baterias do carro podem fornecer energia para uma casa ou região por um determinado tempo. A Geração Distribuída-GD tem um papel fundamental na utilização das baterias veiculares para armazenamento de energia (segunda vida útil), porém precisa-se se pensar também em qual será a visão de médio e longo prazo do Setor Elétrico de uma rede de transporte eletrificada.`,
-    date: '10/05',
-    time: '20:30-22:00',
-    place: "Online",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjQ3OTcwNDMtMTVjYS00YTk3LTg1ZWItMDkwZmMzM2NkNWZh%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-  
-  },
-
-  {
-    title: 'Perícia agronômica e assistência técnica em perícia',
-    instructor: 'Eliezer Furtado de Carvalho',
-    institution: 'Perito judicial',
-    desc: `A atividade de perícia relacionada a imóveis rurais e/ou atividades e produtos rurais, na sua quase totalidade, são da competência exclusiva do engenheiro agrônomo. Trata-se de atividade que possibilita melhores níveis de remuneração, quando comparada com outras áreas de atuação dos profissionais de agronomia.`,
-    date: '10/05',
-    time: '10:00-11:30',
-    place: 'Presencial: Auditório Marisa Roriz (Área III)'
-  
-  },
-  {
-    title: 'Dados real-time no BigQuery usando CDC',
-    instructor: 'Egio Arruda',
-    institution: 'EasyCrédito/FitBank',
-    desc: `Esta palestra é um caso real de como utilizar o BigQuery como Data Warehouse de alto desempenho com ingestão de dados real-time usando CDC (Change Data Capture) para impacto mínimo nos bancos de dados de produção e baixo custo.`,
-    date: '08/05',
-    time: '17:00-18:30',
-    place: 'Online',
-    link: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMzZDY1ZjAtZTY0Yi00MDU1LTg0ZjUtMDE1Yjk5M2I1Yjcx%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d"
-  
-  },
-  {
-    title: 'IARA: Centro de Pesquisa Aplicada em Inteligência Artificial para Cidades Inteligentes',
-    instructor: 'André Carlos Ponce de Leon Ferreira de Carvalho',
-    institution: 'USP - São Carlos',
-    desc: `Assim como avanços econômicos e sociais permitem que as pessoas vivam mais e melhor, eles também aumentam a consciência de que estes avanços precisam ocorrer de uma forma mais rápida, sustentável e inclusiva. Isso gera uma crescente demanda por melhor qualidade de vida, tanto em regiões urbanas quanto rurais. Um dos principais caminhos para este aumento passa pela incorporação de novas tecnologias, que permitam, por exemplo, a transformação de cidades em cidades inteligentes. Uma cidade inteligente é uma cidade que melhor atende às necessidades de sua população, sendo, ao mesmo tempo, igualitária, inclusiva e sustentável. Dentre as tecnologias que estão sendo adotadas, merecem destaque aquelas baseadas em inteligência artificial.  Nesta palestra apresentarei o centro nacional de pesquisa em inteligência artificial IARA (Inteligência Artificial Recriando Ambientes), selecionado em chamada nacional para centros brasileiros de pesquisa em Inteligência Artificial Aplicada, da FAPESP, MCTI e CGI.br . Apresentarei ainda as primeiras iniciativas do centro, que funciona como uma rede nacional, representada nas 5 regiões do país. Ao final, falarei brevemente sobre algumas das pesquisas em inteligência artificial aplicada realizadas no ICMC USP.`,
-    date: '09/05',
-    time: '17:00-18:30',
-    place: 'Online: YouTube',
-    link: "https://www.youtube.com/watch?v=JtRUBz5-F7A"
-  },
-  {
-    title: 'Cidades Inteligentes',
-    instructor: 'Hemmanoel Feitosa e Silva',
-    institution: 'Secretaria Municipal de Inovação, Ciência e Tecnologia - SICTEC',
-    desc: `Cidades inteligentes, ou smart cities, são aquelas que utilizam tecnologias avançadas para melhorar a qualidade de vida dos seus habitantes, otimizar a gestão dos serviços públicos e promover a sustentabilidade ambiental e econômica. Essas tecnologias incluem sensores, dispositivos de internet das coisas, sistemas de análise de dados, entre outros, que permitem a coleta e o processamento de informações em tempo real, facilitando a tomada de decisões e a otimização dos recursos.`,
-    date: '08/05',
-    time: '09:00-10:30',
-    place: 'Auditório 1 (Área II)'
-  
-  },
-  {
-    title: 'NEUROARQUITETURA',
-    instructor: 'Lorí Crízel',
-    institution: 'Instituto Politécnico di Milano (Itália)',
-    desc: `DIÁLOGO DIRIGIDO`,
-    date: '10/05',
-    time: '10:30-12:00',
-    place: 'Online',
-    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmMwZDk2YjMtZDljNC00NTZlLTllN2QtMTBkMjA3Njg5ODJk%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
-  
-  },
-
-  {
-    title: 'Enade engenharia civil 2023',
-    instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
+    title: 'Ferramenta de desenvolvimento de Software low-code ',
+    /*instructor: 'João Paulo Martins',*/
     institution: 'PUC Goiás',
-    desc: `Informes gerais sobre Enade 2023 para o curso de Engenharia civil`,
-    date: '08/05',
-    time: '19:00-20:30',
-    place: 'Auditório 2 (Área II)'
+    /*desc: `xx`, */
+    date: '17/04',
+    time: '10:30',
+    place: 'Online',
+    link: "https://www.youtube.com/watch?v=zQrZMSrmyhk"
+   },
   
-  },
-
+  { 
+    title: 'Customer Experience and Artificial Intelligence',
+    /*instructor: 'Camila Christina Moreira.',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/ 
+    date: '18/04',
+    time: '20:30',
+    place: 'Online',
+    link: "https://www.youtube.com/watch?v=JXmcZbQQOwk"
+   },
+  
   {
-    title: 'Energia Solar Fotovoltaica: Histórico, Desafios e Tendências Tecnológicas da Energia Limpa e Renovável',
-    instructor: 'Gabriel Mendonça de Paiva',
-    institution: 'Photon Energia LTDA',
-    desc: `A energia solar fotovoltaica será abordada sobre aspectos históricos e de perspectivas futuras dos pontos
-    de vista teórico, mercadológico e de oportunidades que podem surgir nas Engenharias relacionadas ao uso da energia solar fotovoltaica e das tecnologias relacionadas`,
-    date: '10/05',
-    time: '09:00-10:00',
-    place: 'Auditório 1 (Área II)'
-  
+    title: 'As tecnologias de reconhecimento de imagem assistindo à saúde com o planejamento neurocirúrgico ',
+    /*instructor: 'DANILO GREGÓRIO.',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '12/04',
+    time: '19:00',
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=Ic1lfAhEqNM"
   },
-
+  
+  {
+    title: 'Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ',
+    /*instructor: 'Miguel Moreira',*/
+    institution: 'PUC Goiás',
+    /*desc:`xx`,*/
+    date: '18/04',
+    time: '09:00',
+    place: "Online",
+    link:"https://www.youtube.com/watch?v=QklGnm2gDho"
+  },
+  
+  {
+    title: 'Harvesting rare earth elements and critical minerals from coal derived acid mine drainage',
+    /*instructor: 'Gabriella Meireles',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '19/04',
+    time: '18:45',
+    place: "Online",
+    link: "https://www.youtube.com/watch?v=BXj_MrAXvh4"
+  },
+  
+  {
+    title: 'Por uma crítica da ecologia política: investigando a reprodução social da natureza',
+    /*instructor: 'Rener Baptista',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '18/04',
+    time: '08:00',
+    place: 'Online: Teams',
+  },
+  
+  {
+    title: 'Processo de seleção e recrutamento de pilotos em empresas aéreas ',
+    /*instructor: 'Rafael Bomaro Ferreira',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '09/04',
+    time: '20:00',
+    place: "Online: Teams",
+  },
+  
+  {
+    title: 'Aviação civil, mercado de trabalho, oportunidades',
+    /*instructor: 'Eliezer Furtado de Carvalho',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '08/04',
+    time: '20:00',
+    place: 'Online: Teams'
+  },
+  
+  {
+    title: 'Carreira até a Alemanha de aluno egresso da PUC Goiás',
+    /*instructor: 'Egio Arruda',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '17/04',
+    time: '19:00',
+    place: 'Online: Teams',
+  },
+  
+  {
+    title: 'Da Engenharia Mecatrônica à carreira de desenvolvedor de jogos no Canadá ',
+    /*instructor: 'André Carlos Ponce de Leon Ferreira de Carvalho',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '10/04',
+    time: '21:00',
+    place: 'Online: Teams',
+  },
+  
+  {
+    title: 'Meteorologia operacional e sistemas sinóticos ',
+    /*instructor: 'Hemmanoel Feitosa e Silva',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '18/04',
+    time: '19:00',
+    place: 'Online: Teams'
+  },
+  
+  {
+    title: 'Manejo da Irrigação ',
+    /*instructor: 'Lorí Crízel',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '17/04',
+    time: '19:00',
+    place: 'Online: Teams',
+  },
+  
+  {
+    title: 'Métodos de projeto sustentável ',
+    /*instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '17/04',
+    time: '08:00',
+    place: 'Online: Teams'
+  },
+  
+  {
+    title: 'Trabalho Remoto Internacional: desafios e perspectivas',
+    /*instructor: 'Gabriel Mendonça de Paiva',*/
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '19/04',
+    time: '19:00',
+    place: 'Online:',
+    link: "https://www.youtube.com/watch?v=7uB8vFgdhac"
+  },
+  /*
   {
     title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
     instructor: 'Lhiego Rodrigues de Paula',
