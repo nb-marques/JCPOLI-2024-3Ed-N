@@ -13,7 +13,7 @@
     <div class="info-h">
       <div>
         <h5 class="text-wrap" :title="course.instructor">
-          Palestrante: {{ course.instructor }}
+          Ministrante: {{ course.instructor }}
         </h5>
         <h6 class="text-wrap" :title="course.institution">
           Instituição: {{ course.institution }}
