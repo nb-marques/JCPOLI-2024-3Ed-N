@@ -162,11 +162,11 @@ let Palestras = [
     date: "18/04",
     time: "20:00-21:00",
     place: "Online: Teams ",
-    /*link: "Em Breve"*/
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712676150634?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
-    title: "Por que somos minoria em STEM? Roda de Conversa: Mulheres na Ciência",
+    title: "Por que somos minoria em STEM?",
     instructor: "Marta Pereira da Luz",
     institution: "PUC Goiás e Eletrobrás Furnas",
     desc: `Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a participação de mulheres em áreas de STEM e será discutido sobre as questões históricas da mulher nestes cenários.
@@ -175,7 +175,7 @@ let Palestras = [
     date: "19/04",
     time: "21:00-22:00",
     place: "Online: Teams ",
-    //link: "Em Breve"
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712676247016?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
 
   {
@@ -192,7 +192,7 @@ let Palestras = [
 
   {
     title: "Trajetórias pelo Design",
-    /*instructor: 'João Paulo de Morais Alves',*/
+    instructor: 'João Tiago Camargo',
     institution: "PUC Goiás",
     /*desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,*/
     date: "18/04",
@@ -203,7 +203,7 @@ let Palestras = [
   
   {
     title: "Trajetórias em Design",
-    /*instructor: "Frederico Mael e Marcos Costa de Freitas",*/
+    instructor: "Ricardo Queiroz",
     institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "18/04",
@@ -214,7 +214,7 @@ let Palestras = [
   
   {
     title:"Startups e ideias disruptivas",
-    /*instructor: "José Alecrim e Marcos Costa de Freitas",*/
+    instructor: "Everaldo Lopes dos Santos",
     institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "16/04",
@@ -225,7 +225,7 @@ let Palestras = [
   
   {
     title: "Inteligência Artificial aplicada nas Pesquisas Científicas",
-    /*instructor: "Aguinaldo Aragon Fernandes",*/
+    instructor: "Lucas de Suza Rodrigues",
     institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "11/04",
@@ -236,7 +236,7 @@ let Palestras = [
   
   {
     title: "Potencialidades do Design",
-    /*instructor: "Thiago da Mata Santos",*/
+    instructor: "Fernando Felipe",
     institution: "Puc Goiás",
     /*desc: `xx`,*/
     date: "17/04",
@@ -247,7 +247,7 @@ let Palestras = [
   
   {
     title: "Design inclusivo, exclusivo e ancestral ",
-    /*instructor: "Weber Martins",*/
+    instructor: "Ester Carro",
     institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "19/04",
@@ -258,10 +258,10 @@ let Palestras = [
   
   {
     title: "Como se Planejar para uma Carreira de TI Internacional",
-    /*instructor: "Dr. Alexandre Delbem",*/
+    instructor: "Juliana Moreira Barbosa",
     institution: "PUC Goiás",
     /*desc: `xx`,*/
-    date: "16/04/",
+    date: "16/04",
     time: "20:30",
     place: "Online",
     link: "https://www.youtube.com/watch?v=j3m3TJS83d8"
@@ -269,7 +269,7 @@ let Palestras = [
   
   {
     title: "Creator Economy, olhando para o futuro do empreendedorismo digital",
-    /*instructor: "Raphael de Aquino Gomes",*/
+    instructor: "Adriane Maia Insuela",
     institution: "PUC Goiás",
     /*desc: `xx`,*/
     date: "18/04",
@@ -280,7 +280,7 @@ let Palestras = [
   
   { 
     title: 'Ferramenta de desenvolvimento de Software low-code ',
-    /*instructor: 'João Paulo Martins',*/
+    instructor: 'Daiana Ribeiro',
     institution: 'PUC Goiás',
     /*desc: `xx`, */
     date: '17/04',
@@ -291,7 +291,7 @@ let Palestras = [
   
   { 
     title: 'Customer Experience and Artificial Intelligence',
-    /*instructor: 'Camila Christina Moreira.',*/
+    instructor: 'Patrícia Amaral',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/ 
     date: '18/04',
@@ -302,7 +302,7 @@ let Palestras = [
   
   {
     title: 'As tecnologias de reconhecimento de imagem assistindo à saúde com o planejamento neurocirúrgico ',
-    /*instructor: 'DANILO GREGÓRIO.',*/
+    instructor: 'Wallace Souza Loos',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '12/04',
@@ -313,7 +313,7 @@ let Palestras = [
   
   {
     title: 'Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ',
-    /*instructor: 'Miguel Moreira',*/
+    instructor: 'Anne Louise de Melo Dores',
     institution: 'PUC Goiás',
     /*desc:`xx`,*/
     date: '18/04',
@@ -324,7 +324,7 @@ let Palestras = [
   
   {
     title: 'Harvesting rare earth elements and critical minerals from coal derived acid mine drainage',
-    /*instructor: 'Gabriella Meireles',*/
+    instructor: 'Dr. Iuri Santos',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '19/04',
@@ -335,72 +335,79 @@ let Palestras = [
   
   {
     title: 'Por uma crítica da ecologia política: investigando a reprodução social da natureza',
-    /*instructor: 'Rener Baptista',*/
+    instructor: 'Camilo Vladimir de Lima Amaral',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '18/04',
     time: '08:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675159930?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Processo de seleção e recrutamento de pilotos em empresas aéreas ',
-    /*instructor: 'Rafael Bomaro Ferreira',*/
+    instructor: 'Antonio Mousinho',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
-    date: '09/04',
+    date: '15/04',
     time: '20:00',
     place: "Online: Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675057762?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Aviação civil, mercado de trabalho, oportunidades',
-    /*instructor: 'Eliezer Furtado de Carvalho',*/
+    instructor: 'Raoni Jacobson',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
-    date: '08/04',
+    date: '15/04',
     time: '20:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712673915601?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Carreira até a Alemanha de aluno egresso da PUC Goiás',
-    /*instructor: 'Egio Arruda',*/
+    instructor: 'Thalles Antônio de Urzedo Machadoa',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675268758?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Da Engenharia Mecatrônica à carreira de desenvolvedor de jogos no Canadá ',
-    /*instructor: 'André Carlos Ponce de Leon Ferreira de Carvalho',*/
+    instructor: 'Lavio Fidélis',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '10/04',
     time: '21:00',
     place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712673915601?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Meteorologia operacional e sistemas sinóticos ',
-    /*instructor: 'Hemmanoel Feitosa e Silva',*/
+    instructor: 'Antônio Marcos Vianna Campos',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '18/04',
     time: '19:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675569968?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Manejo da Irrigação ',
-    /*instructor: 'Lorí Crízel',*/
+    instructor: 'Fernando Rezende da Costa',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -410,12 +417,13 @@ let Palestras = [
     /*desc: `xx`,*/
     date: '17/04',
     time: '08:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
     title: 'Trabalho Remoto Internacional: desafios e perspectivas',
-    /*instructor: 'Gabriel Mendonça de Paiva',*/
+    instructor: 'Flavio Signorelli Mendes e Walter Berchez',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
     date: '19/04',
@@ -423,53 +431,49 @@ let Palestras = [
     place: 'Online:',
     link: "https://www.youtube.com/watch?v=7uB8vFgdhac"
   },
-  /*
-  {
-    title: 'A carreira do profissional de gestão de projetos - desafios e oportunidades',
-    instructor: 'Lhiego Rodrigues de Paula',
-    institution: 'Project Management Institute (PMI), Goiás, Go',
-    desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
-    date: '08/05',
-    time: '19:00-20:30',
-    place: 'Online',
-    link: 'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGJhODNjYTAtNGM5Ni00Y2M5LWJlYWQtY2RjMWI2YzMzNmU1%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
   
-  },
-
   {
-    title: '',
-    instructor: 'Ivan Lourenço Costa ',
-    institution: 'Project Management Institute (PMI), Goiás, Go',
-    desc: `Quer saber quais são os desafios e as oportunidades de uma carreira em gestão de projetos? Então essa palestra é para você! Vamos falar sobre as habilidades necessárias para superar esses desafios, tais como liderança, comunicação, planejamento e resolução de problemas. Vamos abordar o que você precisa saber para se manter competitivo no mercado e oferecer insights valiosos para ajudá-lo a navegar nesse campo tão dinâmico.`,
-    date: '08/05',
-    time: '08:00-09:30',
-    place: 'Auditório 3 (Área II)',
-    warning: "A carreira do profissional de gestão de projetos - desafios e oportunidades CANCELADA ",
-    
-
+    title: 'IA no mercado profissional',
+    instructor: 'João Paulo Tavares',
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '15/04',
+    time: '20:30',
+    place: 'Online',
+    /*link: 'xx'*/
   },
-
+  
   {
-    title: "Desenvolvendo Habilidades Sociais e de Liderança, por meio da Experiência de Monitoria: Celebrando 50 Anos na PUC Goiás",
-   instructor: "Marília Rabelo Holanda Camarano",
+    title: 'Integrando Carbono Incorporado em Métodos de Projeto',
+    instructor: 'Halina Veloso e Zárate',
+    institution: 'PUC Goiás',
+    /*desc: `xx`,*/
+    date: '17/04',
+    time: '08:00',
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675999891?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+  },
+  
+  {
+    title: "Avaliação de máquinas, equipamentos e bens móveis",
+    instructor: "Ricardo Vitoy",
     institution: "PUC Goiás",
-    desc: `Mesa redonda da Monitoria como processo de desenvolvimento de liderança e soft skills, para a o futuro profissional`,
-    date: "10/05",
-    time: '08:00-09:30',
-    place: 'Auditório 2 (Área II)',
+    desc: `Possui graduação em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1993) e mestrado em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1998). Atualmente é consultor - MUSA INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA, engenheiro - TRAVAGLIA ENGENHARIA LTDA, prof especialização em avaliações e perícias do Instituto de Pós-graduação e Graduação, professor de pós graduação do Instituto de Pós-graduação e Graduação, professor do Instituto Federal de Educação, Ciência e Tecnologia de Goiás e professor do ensino superior da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Engenharia Mecânica, com ênfase em Engenharia Mecânica, atuando principalmente nos seguintes temas: avaliação, mecânica dos fluidos, projeto e processamento industrial.`,
+    date: "17/04",
+    time: '08:30-12:00',
+    place: 'Laboratório: sala 002, bloco J, área III ',
   },
-
-
+  
   {
-    title: "Apresentação dos artigos e resumos expandidos na II JCPOLI",
-    instructor: "Matheus Fernandes, Estevão Cavalcante e Hianka Rodrigues",
-    institution: "PUC Goiás",
-    desc: "Apresentação dos artigos aceitos na II JCPOLI: Artigo:  Predição da precificação de commodities pecuárias utilizando redes neurais artificiais Autor(a): Matheus Fernandes. Artigo: Análise preditiva com redes neurais convolucionais para o geoprocessamento de imagens Autor(a): Estevão Cavalcante. Artigo: Uso das normas NBR ISO/IEC 27017 e 27018 para garantir a segurança da computação em nuvem Autor(a): Hianka Rodrigues",
-    date: "09/05",
-    time: "10:45-12:15",
-    place: "Auditório Marisa Roriz (Área III)",
+    title: "Máquinas Síncronas: Conceitos básicos, princípios e funcionamento, aspectos construtivos, aplicabilidade.",
+    instructor: "Márcio Victor Trevisan",
+    institution: "WORKSOLAR IMPORTAÇÃO E DISTRIBUIÇÃO",
+    desc: "Mais de 15 anos de experiência na área empresarial, educacional e engenharia elétrica, tendo atuado em empresas multinacionais de grande porte como: Puc-Goiás, Enel X e WorkSolar; desenvolvendo atividades com foco em engenharia como: projetos elétricos, telecomunicações e usinas fotovoltaicas, data centers , redes de telecomunicações estruturadas em prédios comerciais e industriais, redes de energia estáveis e ininterruptas; pós-graduações em engenharia de controle e automação industrial e gestão de projetos e processos; planejamento, construção e implantação de áreas estratégicas de mercado e gestão de negócios, com resultados frutíferos alcançados. Experiência em negociação com stakeholders, tomadores de decisão para obtenção de condições comerciais favoráveis ao negócio; habilidade de negociação e bom relacionamento interpessoal; capacidade de lidar com mudanças e se adaptar a novas situações com alto grau de resiliência e senso de urgência; foco em superação de metas, tomada de decisão firme, planejada, rápida; concepção de normas técnicas para desenvolvimento de redes de distribuição rurais e urbanas; ABNT NBR 5410-Instalações Elétricas de Baixa Tensão e Normas Regulamentadoras NR-10-Segurança nas Instalações e outras normas técnicas na área de serviços elétricos ; sólida formação acadêmica, principalmente sou graduado em Engenharia Elétrica pela PUC de Goiás e graduado pela Faculdade Única e Pós Graduação do Brasil, complementando meu perfil.",
+    date: "17/04",
+    time: "08:00-09:30",
+    place: "Auditório 1, área II",
   },
-
+  /*
   {
     title: "Como a Engenharia Mecatrônica contribuiu para a minha atuação em Animação 3D",
     instructor: "Lavio Ribeiro Fidelis Neto",
