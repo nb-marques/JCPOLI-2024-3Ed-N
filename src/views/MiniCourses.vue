@@ -17,7 +17,6 @@
         <button class="button" v-on:click="filterCourses">17/04</button>
         <button class="button" v-on:click="filterCourses">18/04</button>
         <button class="button" v-on:click="filterCourses">19/04</button>
-        <button class="button" v-on:click="filterCourses">20/04</button>
         <!--<button class="button" v-on:click="filterCourses">12/05</button>
         <button class="button" v-on:click="filterCourses">13/05</button>-->
       </div>
