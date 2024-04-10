@@ -16,13 +16,12 @@
             </v-btn>
           </div>
 
-        <!--
           <div class="info-arquivo">
-            <h4>Edital do I Concurso de Fotografia da Escola Politécnica e de Artes</h4>
+            <h4>Edital do Desafio de Ciência dos Dados</h4>
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/Concurso_Artes.pdf"
+              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2024-1.pdf"
               target="_blank"
             >
               ACESSAR EDITAL
@@ -30,12 +29,13 @@
             </v-btn>
           </div>
 
+        <!--
           <div class="info-arquivo">
-            <h4>Edital do Desafio de Ciência dos Dados</h4>
+            <h4>Edital do I Concurso de Fotografia da Escola Politécnica e de Artes</h4>
             <v-btn
               type="submit"
               color="primary"
-              href="/assets/Edital-DESAFIO-CIÊNCIA DOS DADOS-VF-2023-0305.pdf"
+              href="/assets/Concurso_Artes.pdf"
               target="_blank"
             >
               ACESSAR EDITAL

@@ -3,9 +3,15 @@ const Competicao = [
     title: "VI DESAFIO EM CIÊNCIA DE DADOS",
   instructor: "Maria José Pereira Dantas, José Elmo de Menezes.",
   institution: "PUC Goiás",
-  desc: `1.Palestra de abertura do VI Desafio em Ciências de Dados
+  desc: `
+  <b>1.	Curso introdutório de análise de dados com Linguagem R </b>
+  <br>Data: 17/04/2024
+  <br>Horário: 20:00-22:00
+  <br>Online, no Teams.
+  <br>
+  <br> <b>2.Palestra de abertura do VI Desafio em Ciências de Dados</b>
   <br>Dr. Aníbal Tavares de Azevedo.
-  <br>Título: <b>Oportunidades e Desafios na era da Inteligência Artificial massificada.</b>
+  <br>Título: Oportunidades e Desafios na era da Inteligência Artificial massificada.
   <br>Resumo: Nessa conversa serão apontados alguns desenvolvimentos da inteligência
 artificial massificada em diversos campos. Diversas aplicações práticas serão abordadas
 e exemplificadas. Possibilidades de novos negócios para resolver as
@@ -15,27 +21,32 @@ serão discutidas.
 <br>Data: 18/04, 20 às 21h
 <br>Online, no Teams.
 <br>
-<br>2. Roda de Conversa: Mulheres na Ciência
-<br>Resumo: A conversa será sobre as mulheres nas áreas de Ciência, Tecnologia, Engenharia e
-Matemática (STEM). O objetivo é que as mulheres participantes da roda compartilhem suas
-experiências e dediquem um pouco de seu tempo para pensarem em ações para engajar
-meninas do ensino médio e universitárias, fomentando ações que as incentivem a explorar as
-áreas STEM. De acordo com dados da UNESCO, estima-se que apenas 30% dos cientistas do
-mundo sejam mulheres. A participação de mulheres e meninas deve ser fortalecida pois
-desempenham um papel essencial nas comunidades de ciência e tecnologia.
-<br>Palestra: <b>Por que somos minoria em STEM?</b>
-<br>Marta Pereira da Luz (30 min)
+<br><b>3.Palestra "Por que somos minoria em STEM?"</b>
+<br>Marta Pereira da Luz
+<br>Título: Por que somos minoria em STEM?
 <br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
 participação de mulheres em áreas de STEM e será discutido sobre as questões
 históricas da mulher nestes cenários.
-<br>Em seguida teremos interação com os participantes (30min)
 <br>Data: 19/04, 21 às 22h
-<br>Online, no Teams.`,
-  date: "18/04 a 19/04",
-  time: "20 às 21h no primeiro dia, 21 às 22h no segundo dia",
+<br>Online, no Teams.
+<br>
+<br><b>4.	Curso introdutório de análise da dados com Linguagem Pyhton </b>
+<br>Data: 19/04/2024
+<br>Horário: 21:00-22:00
+<br>Online, no Teams.
+<br>
+<br><a href="https://forms.office.com/r/F7w9cbRKbD">Link de inscrição, prazo de 8/4 a 18/4</a>
+<br><a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala Teams do IV Desafio em Ciência de Dados</a>
+`,
+  inscrevase:"https://forms.office.com/r/F7w9cbRKbD",
+  datainscri:"08/04 a 18/04/2024",
+  date: "17/04 a 19/04",
+  time: "20 às 22h",
   place: "Teams",
   image: "assets/img/slider/logo-maratona.jpeg"
   },
+
+
   /*
   {
     title: "Maratona de Programação - Primeiro Período",
