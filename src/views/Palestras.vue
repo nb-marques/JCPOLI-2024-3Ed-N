@@ -14,9 +14,6 @@
       -->
       <div class="button-container">
         <button class="button" v-on:click="clearFilter">Todas as datas</button>
-        <button class="button" v-on:click="filterPalestras">08/04</button>
-        <button class="button" v-on:click="filterPalestras">09/04</button>
-        <button class="button" v-on:click="filterPalestras">10/04</button>
         <button class="button" v-on:click="filterPalestras">11/04</button>
         <button class="button" v-on:click="filterPalestras">12/04</button>
         <button class="button" v-on:click="filterPalestras">15/04</button>
@@ -24,7 +21,6 @@
         <button class="button" v-on:click="filterPalestras">17/04</button>
         <button class="button" v-on:click="filterPalestras">18/04</button>
         <button class="button" v-on:click="filterPalestras">19/04</button>
-        <button class="button" v-on:click="filterPalestras">20/04</button>
         <!--<button class="button" v-on:click="filterPalestras">12/05</button>
         <button class="button" v-on:click="filterPalestras">13/05</button>-->
       </div>
