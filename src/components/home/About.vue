@@ -61,7 +61,8 @@
         </p>
       </v-flex>
       <v-flex mt-5>
-        <img src="assets/img/slider/QR-code-monitoria.jpg" style="width:100%;" alt="">
+        <embed class="pdf" 
+               src="assets/MONITORIA_NA_III_JCPOLI.pdf" width="800" height="500">
       </v-flex>
     </v-layout>
   </div>
