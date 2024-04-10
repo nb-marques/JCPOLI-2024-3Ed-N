@@ -162,11 +162,11 @@ let Palestras = [
     date: "18/04",
     time: "20:00-21:00",
     place: "Online: Teams ",
-    /*link: "Em Breve"*/
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712676150634?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
-    title: "Por que somos minoria em STEM? Roda de Conversa: Mulheres na Ciência",
+    title: "Por que somos minoria em STEM?",
     instructor: "Marta Pereira da Luz",
     institution: "PUC Goiás e Eletrobrás Furnas",
     desc: `Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a participação de mulheres em áreas de STEM e será discutido sobre as questões históricas da mulher nestes cenários.
@@ -175,7 +175,7 @@ let Palestras = [
     date: "19/04",
     time: "21:00-22:00",
     place: "Online: Teams ",
-    //link: "Em Breve"
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712676247016?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
 
   {
@@ -261,7 +261,7 @@ let Palestras = [
     instructor: "Juliana Moreira Barbosa",
     institution: "PUC Goiás",
     /*desc: `xx`,*/
-    date: "16/04/",
+    date: "16/04",
     time: "20:30",
     place: "Online",
     link: "https://www.youtube.com/watch?v=j3m3TJS83d8"
@@ -341,6 +341,7 @@ let Palestras = [
     date: '18/04',
     time: '08:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675159930?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -348,9 +349,10 @@ let Palestras = [
     instructor: 'Antonio Mousinho',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
-    date: '09/04',
+    date: '15/04',
     time: '20:00',
     place: "Online: Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675057762?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -358,9 +360,10 @@ let Palestras = [
     instructor: 'Raoni Jacobson',
     institution: 'PUC Goiás',
     /*desc: `xx`,*/
-    date: '08/04',
+    date: '15/04',
     time: '20:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712673915601?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -371,6 +374,7 @@ let Palestras = [
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675268758?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -381,6 +385,7 @@ let Palestras = [
     date: '10/04',
     time: '21:00',
     place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712673915601?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -390,7 +395,8 @@ let Palestras = [
     /*desc: `xx`,*/
     date: '18/04',
     time: '19:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675569968?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -401,6 +407,7 @@ let Palestras = [
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -410,7 +417,8 @@ let Palestras = [
     /*desc: `xx`,*/
     date: '17/04',
     time: '08:00',
-    place: 'Online: Teams'
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
   {
@@ -435,6 +443,7 @@ let Palestras = [
     /*link: 'xx'*/
   },
   
+  /*
   {
     title: 'Integrando Carbono Incorporado em Métodos de Projeto',
     instructor: 'Halina Veloso e Zárate',
@@ -442,9 +451,12 @@ let Palestras = [
     /*desc: `xx`,*/
     date: '17/04',
     time: '08:00',
+    place: 'Online: Teams',
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675999891?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
     place: 'Teams',
 
   },
+  */
   
   {
     title: "Avaliação de máquinas, equipamentos e bens móveis",
