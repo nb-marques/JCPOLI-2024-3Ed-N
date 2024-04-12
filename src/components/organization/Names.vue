@@ -9,13 +9,16 @@
           v-for="(organizador, index) in cientific"
           :key="index"
         >
-          <a
-            href="javascript:void(0);"
-            :class="{ 'no-dialog': !organizador.participantes }"
-            @click="showInfo(organizador)"
-            >{{ organizador.coordenador }}</a
-          >
-          <p class="text-center font-italic">{{ organizador.area }}</p>
+            <span>
+              <a
+                href="javascript:void(0);"
+                :class="{ 'no-dialog': !organizador.participantes }"
+                @click="showInfo(organizador)"
+                >{{ organizador.coordenador }}</a
+              >
+              <p class="text-center font-italic">{{ organizador.area }}</p>
+            </span>
+
         </div>
       </div>
       <Comissao
@@ -34,6 +37,7 @@
           v-for="(organizador, index) in organizacao"
           :key="index"
         >
+          <span>
           <a
             href="javascript:void(0);"
             :class="{ 'no-dialog': !organizador.participantes }"
@@ -41,6 +45,7 @@
             >{{ organizador.coordenador }}</a
           >
           <p class="text-center font-italic">{{ organizador.area }}</p>
+        </span>
         </div>
       </div>
 

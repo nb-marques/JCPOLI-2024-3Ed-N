@@ -215,6 +215,7 @@ svg {
   font-size: 1.2rem;
   text-align: right;
   text-transform: capitalize;
+  white-space: nowrap;
 }
 
 .competicoes {
