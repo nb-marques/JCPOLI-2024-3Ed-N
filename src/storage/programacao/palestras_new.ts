@@ -151,7 +151,7 @@ let Palestras = [
   {
     title:"De Ciência de Dados a Engenharia de Inteligência Artificial: um achismo de como será o futuro",
     instructor: "João Paulo Marinho Martiins",
-    institution: "Sorcero",
+    institution: "Advolve.AI",
     desc: "Como as profissões de Cientista de Dados e Engenheiro de Inteligência Artificial estão moldando o futuro não só da tecnologia, mas também de todas as outras profissões.",
     date: "18/04",
     time: "19:00-20:30",
