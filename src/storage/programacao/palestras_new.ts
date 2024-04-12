@@ -54,7 +54,7 @@ let Palestras = [
   },
   
   {
-    title: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
+    title: "Palestra institucional do CREA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
     instructor: "Eng. Ana Renata Volpini Litfalla",
     institution: `CREA-GO `,
     desc: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
@@ -189,11 +189,11 @@ let Palestras = [
     image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
   },
 
-
+/*
   {
     title: "Trajetórias pelo Design",
     instructor: 'João Tiago Camargo',
-    /*desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,*/
+    desc: `A palestra "Ai.rtista: uma imersão na construção da imagem digital através do Midjourney e suas barreiras no mercado da arte" aborda o desafio dos artistas em construir uma imagem digital coerente e atraente, que possa ajudá-los a se destacar no mercado da arte. O palestrante apresenta o conceito de Midjourney, que é uma ferramenta que ajuda os artistas a desenvolverem sua marca pessoal e construírem uma presença online consistente e eficaz. No entanto, o palestrante também aborda as barreiras que os artistas enfrentam nesse processo, como a falta de conhecimento técnico em marketing digital e a dificuldade em conciliar a produção artística com a gestão da imagem digital. A palestra busca oferecer insights e dicas práticas para que os artistas possam superar essas barreiras e construir uma imagem digital sólida e impactante.`,
     date: "18/04",
     time: "08:30",
     place: "Online",
@@ -203,7 +203,6 @@ let Palestras = [
   {
     title: "Trajetórias em Design",
     instructor: "Ricardo Queiroz",
-    /*desc: `xx`,*/
     date: "18/04",
     time: "10:30",
     place: "Online",
@@ -213,7 +212,7 @@ let Palestras = [
   {
     title:"Startups e ideias disruptivas",
     instructor: "Everaldo Lopes dos Santos",
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: "16/04",
     time: "19:00",
     place: "Online",
@@ -223,7 +222,7 @@ let Palestras = [
   {
     title: "Inteligência Artificial aplicada nas Pesquisas Científicas",
     instructor: "Lucas de Suza Rodrigues",
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: "11/04",
     time: "08:30",
     place: "Online",
@@ -233,7 +232,7 @@ let Palestras = [
   {
     title: "Potencialidades do Design",
     instructor: "Fernando Felipe",
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: "17/04",
     time: "19:30",
     place: "Online",
@@ -256,7 +255,7 @@ let Palestras = [
   {
     title: "Como se Planejar para uma Carreira de TI Internacional",
     instructor: "Juliana Moreira Barbosa",
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: "16/04",
     time: "20:30",
     place: "Online",
@@ -266,7 +265,7 @@ let Palestras = [
   {
     title: "Creator Economy, olhando para o futuro do empreendedorismo digital",
     instructor: "Adriane Maia Insuela",
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: "18/04",
     time: "19:00",
     place: "Online",
@@ -276,7 +275,7 @@ let Palestras = [
   { 
     title: 'Ferramenta de desenvolvimento de Software low-code ',
     instructor: 'Daiana Ribeiro',
-    /*desc: `xx`, */
+    desc: `xx`, 
     date: '17/04',
     time: '10:30',
     place: 'Online',
@@ -286,7 +285,7 @@ let Palestras = [
   { 
     title: 'Customer Experience and Artificial Intelligence',
     instructor: 'Patrícia Amaral',
-    /*desc: `xx`,*/ 
+    desc: `xx`, 
     date: '18/04',
     time: '20:30',
     place: 'Online',
@@ -296,7 +295,7 @@ let Palestras = [
   {
     title: 'As tecnologias de reconhecimento de imagem assistindo à saúde com o planejamento neurocirúrgico ',
     instructor: 'Wallace Souza Loos',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '12/04',
     time: '19:00',
     place: "Online",
@@ -306,7 +305,7 @@ let Palestras = [
   {
     title: 'Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ',
     instructor: 'Anne Louise de Melo Dores',
-    /*desc:`xx`,*/
+    desc:`xx`,
     date: '18/04',
     time: '09:00',
     place: "Online",
@@ -316,7 +315,7 @@ let Palestras = [
   {
     title: 'Harvesting rare earth elements and critical minerals from coal derived acid mine drainage',
     instructor: 'Dr. Iuri Santos',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '19/04',
     time: '18:45',
     place: "Online",
@@ -326,7 +325,7 @@ let Palestras = [
   {
     title: 'Por uma crítica da ecologia política: investigando a reprodução social da natureza',
     instructor: 'Camilo Vladimir de Lima Amaral',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '18/04',
     time: '08:00',
     place: 'Online: Teams',
@@ -336,7 +335,7 @@ let Palestras = [
   {
     title: 'Processo de seleção e recrutamento de pilotos em empresas aéreas ',
     instructor: 'Antonio Mousinho',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '15/04',
     time: '20:00',
     place: "Online: Teams",
@@ -346,7 +345,7 @@ let Palestras = [
   {
     title: 'Aviação civil, mercado de trabalho, oportunidades',
     instructor: 'Raoni Jacobson',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '15/04',
     time: '20:00',
     place: 'Online: Teams',
@@ -356,14 +355,13 @@ let Palestras = [
   {
     title: 'Carreira até a Alemanha de aluno egresso da PUC Goiás',
     instructor: 'Thalles Antônio de Urzedo Machado',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675268758?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
   
-  /*
   {
     title: 'Da Engenharia Mecatrônica à carreira de desenvolvedor de jogos no Canadá ',
     instructor: 'Lavio Fidélis',
@@ -374,12 +372,11 @@ let Palestras = [
     place: 'Online: Teams',
     link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712673915601?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
-  */
-  
+
   {
     title: 'Meteorologia operacional e sistemas sinóticos ',
     instructor: 'Antônio Marcos Vianna Campos',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '18/04',
     time: '19:00',
     place: 'Online: Teams',
@@ -389,13 +386,13 @@ let Palestras = [
   {
     title: 'Manejo da Irrigação ',
     instructor: 'Fernando Rezende da Costa',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '17/04',
     time: '19:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
-  /*
+  
   {
     title: 'Métodos de projeto sustentável ',
     /*instructor: 'Marta Pereira da Luz, Rosana Brandão e Benjamin Jorge',
@@ -405,11 +402,12 @@ let Palestras = [
     time: '08:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
-  },*/
+  },
+
   {
     title: 'Trabalho Remoto Internacional: desafios e perspectivas',
     instructor: 'Flavio Signorelli Mendes e Walter Berchez',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '19/04',
     time: '19:00',
     place: 'Online',
@@ -419,25 +417,23 @@ let Palestras = [
   {
     title: 'IA no mercado profissional',
     instructor: 'João Paulo Tavares',
-    /*desc: `xx`,*/
+    desc: `xx`,
     date: '15/04',
     time: '20:30',
     place: 'Online',
-    /*link: 'xx'*/
+    link: 'xx'
   },
-  
+  */
 
   {
     title: 'Métodos de projeto sustentável ',
     instructor: 'Halina Veloso e Zárate',
-    institution: 'PUC Goiás',
-    //desc: `xx`,
     date: '17/04',
     time: '08:00',
     place: 'Online: Teams',
     link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675999891?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
   },
-  
+  /*
   {
     title: "Avaliação de máquinas, equipamentos e bens móveis",
     instructor: "Ricardo Vitoy",
@@ -448,7 +444,7 @@ let Palestras = [
     time: '08:30-12:00',
     place: 'Laboratório: sala 002, bloco J, área III ',
   },
-  
+  */
   {
     title: "Máquinas Síncronas: Conceitos básicos, princípios e funcionamento, aspectos construtivos, aplicabilidade.",
     instructor: "Márcio Victor Trevisan",
@@ -458,27 +454,27 @@ let Palestras = [
     time: "08:00-09:30",
     place: "Auditório 1, área II",
   },
-  /*
+  
   {
-    title: "Como a Engenharia Mecatrônica contribuiu para a minha atuação em Animação 3D",
-    instructor: "Lavio Ribeiro Fidelis Neto",
-    institution: "Ubisoft Toronto",
-    desc: "A gestão de tempo e projetos foi fundamental para o desenvolvimento das minhas habilidades em animação 3D e transferir essas habilidades para a criação de animações foi natural. Criei um fluxo de trabalho que envolve o planejamento cuidadoso de cada cena e a definição de prazos realistas, garantindo que o resultado final atenda às expectativas do diretor de animação.",
-    date: "09/05",
-    time: "18:00-19:00",
-    place: "Online",
-    link:'https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGEzZjk2ZWQtMGFmMi00NjU0LWFlZDUtNjhiMjhhN2E1NzIy%40thread.v2/0?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%224d5d6768-2ee9-4adc-ac86-4da09deed785%22%7d'
+    title: 'Enredo: a multipremiada "the branding inovation company"',
+    instructor: "Gustavo Moura",
+    institution: "Enredo: CO Goiânia",
+    desc: "A agência de branding e inovação Enredo vem nos apresentar como combinar olhar analítico e criatividade para ampliar a competitividade das empresas, reimaginando negócios para vender mais, criando espaços que as pessoas amem estar e desenhando experiências que elevam o valor das marcas.",
+    date: "19/04",
+    time: "08:30-10:00",
+    place: "Auditório 1, área II",
   },
-  */
- /*{
-    title: "Geossintéticos aplicados a Engenharia Civil.",
-    instructor: "Jefferson Lins",
-    institution: "Universidade de São Paulo",
+
+ {
+    title: "Propriedade Intel",
+    instructor: "Lara Guerreiro Pires",
+    institution: "Instituto Nacional da Propriedade Industrial, INPI, Brasil",
     desc: `Geossintéticos aplicados a Engenharia Civil.`,
-    date: "09/05",
-    time: "19:00-20:30",
-    place: "Online",
-  },*/
+    date: "22/04",
+    time: "17:00-18:00",
+    place: "Online: Teams",
+    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712776179262?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+  },
 
 ]
 
