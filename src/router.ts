@@ -85,6 +85,11 @@ const router = new Router({
         import(/* webpackChunkName: "programacao" */ "./views/Competicao.vue")
     },
     {
+      path: "/ciencia_em_casa",
+      component: () =>
+        import(/* webpackChunkName: "programacao" */ "./views/CienciaEmCasa.vue")
+    },
+    {
       path: "/egressos",
       component: () =>
         import(/* webpackChunkName: "egressos" */ "./views/Egressos.vue")
