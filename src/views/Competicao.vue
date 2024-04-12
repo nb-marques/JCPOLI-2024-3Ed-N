@@ -24,7 +24,7 @@
 
             <div class="desc-text">
               <p v-html= comp.desc></p>
-              <h5 :title="comp.instructor">Instrutor: {{ comp.instructor }}</h5>
+              <h5 :title="comp.instructor">Comissão Organizadora: {{ comp.instructor }}</h5>
               <h6 class="patrocinador" v-if="comp.patrocinador">
                 Patrocinador: {{ comp.patrocinador }}
               </h6>
