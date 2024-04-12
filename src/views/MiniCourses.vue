@@ -7,6 +7,12 @@
       offset="calc((-100/523)*100vw + 67.304015296px)"
     ></PhotoHeader>
 
+    <head>
+      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+      <meta http-equiv="Pragma" content="no-cache">
+      <meta http-equiv="Expires" content="0">
+    </head>
+
     <Main>
       <h4 class="text-center">Agenda JCPOLI</h4>
       <!--

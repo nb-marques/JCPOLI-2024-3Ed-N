@@ -7,6 +7,12 @@
       offset="calc((-150/500)*100vw + 67.304015296px)"
     ></PhotoHeader>
 
+    <head>
+      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+      <meta http-equiv="Pragma" content="no-cache">
+      <meta http-equiv="Expires" content="0">
+    </head>
+
     <Main>
       <h4 class="text-center">Agenda JCPOLI</h4>
       <!--
@@ -41,7 +47,7 @@
 import { Component, Vue, Prop } from 'vue-property-decorator'
 import PhotoHeader from '../components/organization/PhotoHeader.vue'
 import Main from '../components/organization/Main.vue'
-import MiniCourse from '../components/miniCourse/index2.vue'
+import MiniCourse from '../components/speeches/index.vue'
 import SectionCourse from '../components/organization/SectionCourse.vue'
 
 import { Palestras_Cursos } from '@/storage/programacao/palestras_new'
