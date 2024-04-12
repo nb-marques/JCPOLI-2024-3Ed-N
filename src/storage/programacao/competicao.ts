@@ -4,12 +4,19 @@ const Competicao = [
   instructor: "Maria José Pereira Dantas, José Elmo de Menezes.",
   institution: "PUC Goiás",
   desc: `
-  <b>1.	Curso introdutório de análise de dados com Linguagem R </b>
+  <b>1.	Palestra "Sistema de Gerenciamento de Segurança Operacional" </b>
+  <br>Salmen Chaquip Bukzem
+  <br>Título: Sistema de Gerenciamento de Segurança Operacional.
+  <br>Resumo: Abordagem sistêmica do tema. Considerações sobre os aspectos que envolvem a segurança na operação de uma aeronave.  Promoção e melhoria contínua dos níveis de segurança operacional. Panorama e classificação das ocorrências dos últimos 10 anos. Fatores contribuintes.
+  <br>Data: 17/04, 18 às 19h
+  <br>Local: <a href="https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712942235349?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d">Link da sala do Teams</a>
+  <br>
+  <br><b>2.	Curso introdutório de análise de dados com Linguagem R </b>
   <br>Data: 17/04/2024
   <br>Horário: 20:00-22:00
-  <br>Online, no Teams.
+  <br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
   <br>
-  <br> <b>2.Palestra de abertura do VI Desafio em Ciências de Dados</b>
+  <br> <b>3.Palestra de abertura do VI Desafio em Ciências de Dados</b>
   <br>Dr. Aníbal Tavares de Azevedo.
   <br>Título: Oportunidades e Desafios na era da Inteligência Artificial massificada.
   <br>Resumo: Nessa conversa serão apontados alguns desenvolvimentos da inteligência
@@ -19,24 +26,23 @@ dores do mundo combinando o uso das tecnologias habilitadoras da indústria 4.0 
 conjunto com a inteligência artificial
 serão discutidas.
 <br>Data: 18/04, 20 às 21h
-<br>Online, no Teams.
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
-<br><b>3.Palestra "Por que somos minoria em STEM?"</b>
+<br><b>4.Palestra "Por que somos minoria em STEM?"</b>
 <br>Marta Pereira da Luz
 <br>Título: Por que somos minoria em STEM?
 <br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
 participação de mulheres em áreas de STEM e será discutido sobre as questões
 históricas da mulher nestes cenários.
 <br>Data: 19/04, 21 às 22h
-<br>Online, no Teams.
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
-<br><b>4.	Curso introdutório de análise da dados com Linguagem Pyhton </b>
+<br><b>5.	Curso introdutório de análise da dados com Linguagem Pyhton </b>
 <br>Data: 19/04/2024
 <br>Horário: 21:00-22:00
-<br>Online, no Teams.
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
 <br><a href="https://forms.office.com/r/F7w9cbRKbD">Link de inscrição, prazo de 8/4 a 18/4</a>
-<br><a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala Teams do IV Desafio em Ciência de Dados</a>
 `,
   inscrevase:"https://forms.office.com/r/F7w9cbRKbD",
   datainscri:"08/04 a 18/04/2024",
