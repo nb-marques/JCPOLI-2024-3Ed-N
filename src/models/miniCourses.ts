@@ -70,6 +70,17 @@ let Courses = [
     place: "Lab. Informática: sala 101, bloco C, área II",
   }, 
 
+  {
+    title: "Avaliação de máquinas, equipamentos e bens móveis",
+    instructor: "Ricardo Vitoy",
+    institution: "PUC Goiás",
+    desc: `O minicurso abordará temas como custos direto e indireto de instalação, depreciação inicial e desmontagem, valor de equipamentos (sucata, econômico, uso e de risco). Classificação de máquinas, equipamentos, instalações e bens industriais em geral. Metodologia de avaliação de máquinas.
+    Vagas limitadas: 20`,
+    date: "17/04",
+    time: '08:30-12:00',
+    place: 'Laboratório: sala 002, bloco J, área III ',
+  },
+
   /* 
   {
     title: "Aplicações em Engenharia utilizando o software Smath Solver",

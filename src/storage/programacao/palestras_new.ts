@@ -62,6 +62,61 @@ let Palestras = [
     time: "10:00-11:30",
     place: "Auditório 3, área II",
   },
+
+  {
+    title: "Potencialidades do Design",
+    instructor: "Fernando Felipe",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "17/04",
+    time: '19:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=tJXqGMl_iG4"
+   },
+
+   {
+    title: "Ferramenta de desenvolvimento de Software low-code ",
+    instructor: "Daiana Ribeiro",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "17/04",
+    time: '10:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=zQrZMSrmyhk"
+   },
+
+   {
+    title: "Carreira até a Alemanha de aluno egresso da PUC Goiás",
+    instructor: "Thalles Antônio de Urzedo Machado",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "17/04",
+    time: '19:00',
+    place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675268758?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+   },
+
+   {
+    title: "Manejo da Irrigação ",
+    instructor: "Fernando Rezende da Costa",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "17/04",
+    time: '19:00',
+    place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+   },
+
+   {
+    title: "Métodos de projeto sustentável ",
+    instructor: "Halina Veloso e Zárate",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "17/04",
+    time: '08:00',
+    place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+   },
   
   {
     title: "Potencialidade da fruticultura no Centro-Oeste",
@@ -102,6 +157,84 @@ let Palestras = [
     time: "19:00-20:30",
     place: "Auditório 3, área II",
   },
+
+  {
+    title: "Trajetórias pelo Design - Egresso João Tiago Camargo ",
+    instructor: "João Tiago Camargo",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '08:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=ElxIwc_aHWc"
+   },
+
+   {
+    title: "Trajetórias em Design - Egresso Ricardo Queiroz",
+    instructor: "Ricardo Queiroz",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '10:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=UUlrAXK6Ltk"
+
+   },
+
+   {
+    title: "Creator Economy, olhando para o futuro do empreendedorismo digital",
+    instructor: "Adriane Maia Insuela",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '19:00',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=u3v8d7EBHYk"
+   },
+
+   {
+    title: "Customer Experience and Artificial Intelligence",
+    instructor: "Patrícia Amaral",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '20:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=JXmcZbQQOwk"
+   },
+
+   {
+    title: "Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ",
+    instructor: "Anne Louise de Melo Dores",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '09:00',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=QklGnm2gDho"
+   },
+
+   {
+    title: "Por uma crítica da ecologia política: investigando a reprodução social da natureza",
+    instructor: "Camilo Vladimir de Lima Amaral",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '08:00',
+    place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675159930?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+   },
+
+   {
+    title: "Meteorologia operacional e sistemas sinóticos ",
+    instructor: "Antônio Marcos Vianna Campos",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "18/04",
+    time: '19:00',
+    place: 'Online: Teams',
+    link:"https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675569968?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
+   },
   
   {
     title: "Praticas de Manejo e Conservação do Solo",
@@ -188,6 +321,29 @@ let Palestras = [
     place: "Auditório Mariza Roriz, área III",
     image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
   },
+
+  {
+    title: "Design inclusivo, exclusivo e ancestral ",
+    instructor: "Ester Carro",
+    /*institution: "xx",*/
+    desc: `Ester Carro vem falar sobre o Fazendinhando, que é um instituto de transformação territorial, cultural e socioambiental que atua em favelas, feito por e para os moradores. 
+    Esta palestra será transmitida ao vivo no Auditório 1, área II.`,
+    date: "19/04",
+    time: '10:30',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=pZjeisIMHZM"
+   },
+
+   {
+    title: "Harvesting rare earth elements and critical minerals from coal derived acid mine drainage",
+    instructor: "Dr. Iuri Santos",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "19/04",
+    time: '18:45',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=BXj_MrAXvh4"
+   },
 
 /*
   {
@@ -464,18 +620,6 @@ let Palestras = [
     time: "08:30-10:00",
     place: "Auditório 1, área II",
   },
-
- {
-    title: "Propriedade Intel",
-    instructor: "Lara Guerreiro Pires",
-    institution: "Instituto Nacional da Propriedade Industrial, INPI, Brasil",
-    desc: `Geossintéticos aplicados a Engenharia Civil.`,
-    date: "22/04",
-    time: "17:00-18:00",
-    place: "Online: Teams",
-    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712776179262?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
-  },
-
 ]
 
 const Palestras_Producao = [
