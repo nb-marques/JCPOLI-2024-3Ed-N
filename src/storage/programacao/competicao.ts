@@ -52,6 +52,18 @@ históricas da mulher nestes cenários.
   image: "assets/img/slider/logo-maratona.jpeg"
   },
 
+  {
+    title: "II CONCURSO DE FOTOGRAFIA DA ESCOLA POLITÉCNICA E DE ARTES",
+  instructor: "Luciana Casaletti, Frederico André Rabelo e Genilda da Silva Alexandria Sousa.",
+  institution: "PUC Goiás",
+  desc: `II Concurso de Fotografia da Escola Politécnica da Universidade Católica de Goiás (PUC Goiás) tem como objetivo fomentar a produção de imagens relacionadas ao tema Fraternidade e Amizade Social e contribuir para a integração dos cursos ofertados pela Escola, bem como o desenvolvimento da cultura e arte entre a comunidade acadêmica.`,
+  editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
+  date: "18/04",
+  time: "19:00",
+  place: "Auditório Mariza Roriz, área III",
+  /*image: "assets/img/slider/expo_foto.jpg"*/
+  },
+
 
   /*
   {
