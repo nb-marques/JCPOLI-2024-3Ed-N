@@ -323,6 +323,17 @@ let Palestras = [
   },
 
   {
+    title: "Trabalho Remoto Internacional: desafios e perspectivas",
+    instructor: "Flavio Signorelli Mendes e Walter Berchez",
+    /*institution: "xx",
+    desc: `xx`,*/
+    date: "19/04",
+    time: '19:00',
+    place: 'Online',
+    link:"https://www.youtube.com/watch?v=7uB8vFgdhac"
+   },
+
+  {
     title: "Design inclusivo, exclusivo e ancestral ",
     instructor: "Ester Carro",
     /*institution: "xx",*/

@@ -250,8 +250,8 @@ let CienciaEmCasa = [
     instructor: "Flavio Signorelli Mendes e Walter Berchez",
     /*institution: "xx",
     desc: `xx`,*/
-    date: "16/04",
-    time: '19:30',
+    date: "19/04",
+    time: '19:00',
     place: 'Online',
     link:"https://www.youtube.com/watch?v=7uB8vFgdhac"
    },
