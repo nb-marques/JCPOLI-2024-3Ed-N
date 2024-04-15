@@ -345,6 +345,27 @@ let Palestras = [
     link:"https://www.youtube.com/watch?v=BXj_MrAXvh4"
    },
 
+   {
+    title: "Mercado de trabalho. Preparo, pespectivas e desafios.",
+    instructor: "Mediador: Salmen Chaquip Bukzem; Componentes: Cmte Ciro Actis, Cmte Fernando Amado, Cmte Lucas Manoel, Cmte Estenio Ramos",
+    /*institution: "xx", */
+    desc: `Mesa redonda com egressos.
+
+    Mediador: 
+    Salmen Chaquip Bukzem;
+    
+    Componentes:
+    Cmte Ciro Actis,
+    Cmte Fernando Amado,
+    Cmte Lucas Manoel,
+    Cmte Estenio Ramos`,
+    date: "16/04",
+    time: '9:00',
+    place: 'Auditório 3, área II',
+    /*link:"XX"*/
+   },
+
+
 /*
   {
     title: "Trajetórias pelo Design",

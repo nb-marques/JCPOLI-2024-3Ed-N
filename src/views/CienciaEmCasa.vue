@@ -57,7 +57,7 @@ export default class Palestras extends Vue {
   private all_palestras
   private filtered_palestras
   private title = 'Ciência em Casa'
-  private description = 'Data, Horario e local'
+  private description = ''
   private background = 'assets/img/slider/6.jpg'
   filterPalestras(e) {
     let data = e.target.innerText
