@@ -54,10 +54,10 @@ let Palestras = [
   },
   
   {
-    title: "Palestra institucional do CREA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
+    title: "Palestra institucional do CREA-GO JOVEM - Ética e Valorização Profissional",
     instructor: "Eng. Ana Renata Volpini Litfalla",
     institution: `CREA-GO `,
-    desc: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",
+    /*desc: "Palestra institucional do CEEA-GO e CREA-GO JOVEM,  e uma palestra completar sobre Ética e Valorização profissional",*/
     date: "17/04",
     time: "10:00-11:30",
     place: "Auditório 3, área II",
