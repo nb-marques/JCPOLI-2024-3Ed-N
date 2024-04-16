@@ -57,6 +57,8 @@ históricas da mulher nestes cenários.
   instructor: "Luciana Casaletti, Frederico André Rabelo e Genilda da Silva Alexandria Sousa.",
   institution: "PUC Goiás",
   desc: `II Concurso de Fotografia da Escola Politécnica da Universidade Católica de Goiás (PUC Goiás) tem como objetivo fomentar a produção de imagens relacionadas ao tema Fraternidade e Amizade Social e contribuir para a integração dos cursos ofertados pela Escola, bem como o desenvolvimento da cultura e arte entre a comunidade acadêmica.`,
+  inscrevase:"https://forms.office.com/r/S9RdTWvSCz",
+  datainscri:"18/04 a 09/05/2024",
   editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
   date: "18/04",
   time: "19:00",
