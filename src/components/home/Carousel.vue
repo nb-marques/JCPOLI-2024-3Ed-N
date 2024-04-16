@@ -37,10 +37,12 @@
                 </div>
 
                 <div class="logo-container">
-                  <img
-                    id="cienciaemcasa"
-                    src="assets/img/cienciaemcasa_preto-removebg.png"
-                  />
+                  <a href="https://jcpoliartes.com.br/ciencia_em_casa">
+                    <img
+                      id="cienciaemcasa"
+                      src="assets/img/cienciaemcasa_preto-removebg.png"
+                    />
+                  </a>
                   <img id="logo" src="assets/img/logo.png" />
                 </div>
               </div>
