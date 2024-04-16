@@ -61,7 +61,7 @@ históricas da mulher nestes cenários.
   date: "18/04",
   time: "19:00",
   place: "Auditório Mariza Roriz, área III",
-  /*image: "assets/img/slider/expo_foto.jpg"*/
+  image: "assets/img/slider/fotografia_2024.jpg"
   },
 
 
