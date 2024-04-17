@@ -243,6 +243,111 @@ export default class Escola extends Vue {
     this.speakers = [
 
     {
+    name: 'Lara Guerreiro Pires',
+    institution: 'Instituto Nacional da Propriedade Industrial, INPI, Brasil',
+    speaking: 'Propriedade Intelectual e Desenvolvimento Sustentável: Construindo nosso futuro comum com inovação e criatividade',
+    description: 'Lara Guerreiro Pires é Analista em Propriedade Industrial, concursada no Instituto Nacional da Propriedade Industrial, desde 2007. Sua carreira no executivo foi construída no atendimento estratégico à comunidade para disseminação e qualificação em propriedade industrial. Atualmente, pesquisa a abordagem da propriedade intelectual na produção noticiosa sobre Inteligência Artificial, em seu doutorado na Universidade da Beira Interior, em Covilhã- Portugal.',
+    subjectResume: 'Propriedade Intelectual e Desenvolvimento Sustentável: Construindo nosso futuro comum com inovação e criatividade',
+    img: '/assets/img/speakers/foto_Iara.png',
+    customSize: '100%',
+    datentime: {
+      date: '22/04/2024 (Segunda)',
+      time: '17:00-18:00',
+      place: 'https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712776179262?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d'
+    }
+  },
+
+    {
+  name: 'Dr. Iuri Santos',
+  institution: '',
+  speaking: 'Harvesting rare earth elements and critical minerals from coal derived acid mine drainage',
+  description: 'Dr. Iuri Santos earned his B.S in Civil Engineering from the Polytechnic School of Pernambuco, Brazil, in 2011. He earned his MSCE in 2017 and Ph.D. in 2022 in Civil and Environmental Engineering from West Virginia University, Morgantown, WV. His expertise is in Geotechnical Engineering and laboratory testing of soils, including seepage and slope stability modeling, mine reclamation, and Acid Mine Drainage mitigation. His research helped implement the geomorphic landform design into coal reclamation in the Appalachian region. Currently, Dr. Santos researches the production, flocculation, filtration, and dewatering of Rare Earth Elements concentrate generated from Acid Mine Drainage. In addition, Dr. Santos works with undergraduate students performing geotechnical and environmental research at SRU’s labs. He believes that as Civil Engineers, we can improve society and help the environment. He is a member of the American Society of Civil Engineering and serves as the faculty advisor for the Student Civil Engineering club at SRU. He is also a member of the American Society of Reclamation Sciences.',
+  subjectResume: 'Palestra: Harvesting rare earth elements and critical minerals from coal derived acid mine drainage.',
+  img: '/assets/img/speakers/iurifoto.png',
+  customSize: '100%',
+  datentime: {
+    date: '19/04/2024 (Sexta)',
+    time: '18:45',
+    place: 'https://www.youtube.com/watch?v=BXj_MrAXvh4'
+  }
+},
+
+    {
+    name: 'Anne Louise de Melo Dores',
+    institution: '',
+    speaking: 'Os efeitos dos microplásticos em sedimentos de lagos e rios europeus',
+    description: 'Engenheira civil, graduada pela Pontifícia Universidade Católica de Goiás, com experiência significativa em pesquisa científica e projetos de saneamento. Atualmente, encontra-se na fase de mestrado na Universidade de Stuttgart, na Alemanha, com foco de pesquisa voltado para a investigação dos efeitos dos microplásticos em sedimentos de lagos e rios europeus. Simultaneamente, está finalizando tese de mestrado no Laboratório de Engenharia Ambiental do Instituto Politécnico Federal de Lausanne (EPFL), na Suíça. Nesse contexto, sua área pesquisa concentra-se na identificação da presença de aditivos associados a partículas de pneus em sedimentos de lagos e rios suíços, bem como nos impactos desses elementos na dinâmica da fauna e flora aquáticas.',
+    subjectResume: 'Palestrante Egressa do Curso de Engenharia Civil, realiza atualmente mestrado na Universidade de Stuttgart, na Alemanha. Irá tratar do tema: Os efeitos dos microplásticos em sedimentos de lagos e rios europeus.',
+    img: '/assets/img/speakers/user-vector-woman.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '18/04/2024 (Quinta)',
+      time: '09:00',
+      place: 'https://www.youtube.com/watch?v=QklGnm2gDho'
+    }
+  },
+
+    {
+  name: 'Patrícia Amaral',
+  institution: '',
+  speaking: 'Customer Experience and Artificial Intelligence',
+  description: 'Graduada em Ciência da Computação pela PUC Goiás, especialista em Inovação com mais de vinte anos de experiência em tecnologias de ponta. Da evolução da User Experience para a Customer Experience, impulsionada pela Inteligência Artificial.',
+  subjectResume: 'A experiência do cliente, enriquecida por jornadas bem desenhadas, serve como alavanca crucial para negócios ao criar interações personalizadas e memoráveis. Essa abordagem aumenta a satisfação e fidelidade, transformando clientes em defensores da marca, o que impulsiona a recompra e promove indicações, resultando em crescimento sustentável e maior rentabilidade. A IA está revolucionando a compreensão e interação com os dos clientes, tornando-a mais personalizada, eficiente e satisfatória. Entre novas tecnologias e modelos de negócios inovadores, vamos mergulhar neste mundo IA e CX.',
+  img: '/assets/img/speakers/patriciafoto.png',
+  customSize: '100%',
+  datentime: {
+    date: '18/04/2024 (Quinta)',
+    time: '20:30',
+    place: 'https://www.youtube.com/watch?v=JXmcZbQQOwk'
+  }
+},
+
+    {
+  name: 'Halina Veloso e Zárate',
+  institution: '',
+  speaking: 'Métodos de projeto sustentável',
+  description: 'Halina formou-se em Arquitetura e Urbanismo (2014), pela Pontifícia Universidade Católica de Goiás no Brasil. Obteve seu mestrado em Arquitetura na UCLA, onde trabalhou como pesquisadora de pós-graduação no Now Institute, uma parceria entre UCLA e Morphosis Architects (agosto de 2015 a junho de 2016). Ela trabalhou com Skidmore, Owings e Merrill LLP, em Los Angeles, (junho de 2016 - novembro de 2017) e MVRDV (fevereiro de 2018 - junho de 2021), como arquiteta e urbanista, e como líder de projeto. Atualmente envolvida em um programa de doutorado em métodos de projeto baseados em dados na Universidade Técnica de Delft, na Holanda.',
+  subjectResume: 'Um panorama sobre a pesquisa de doutorado que investiga a integração de dados sobre carbono no processo de projeto de arquitetura, explorando métodos de projeto baseados em dados focados nos estágios iniciais do projeto. Esta pesquisa visa testar a transferibilidade de dados entre escalas de arquitetura e design urbano. Para isso, realiza uma investigação empírica com profissionais, adotando casos tangíveis e identificando os desafios e gargalos na interação entre dados de carbono incorporados, em escala de construção, e dados urbanos georreferenciados.',
+  img: '/assets/img/speakers/halinafoto.png',
+  customSize: '100%',
+  datentime: {
+    date: '17/04/2024 (Quarta)',
+    time: '08:00',
+    place: 'https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675896432?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d'
+  }
+},
+
+    {
+    name: 'Fernando Rezende da Costa',
+    institution: 'Irriga Global/Nutrisolo',
+    speaking: 'Manejo da Irrigação',
+    description: 'Doutor em Agronomia, pesquisador nas áreas de irrigação, automação de projetos irrigados, controle climático e irrigação de ambiente protegido. Responsável técnico na empresa Irriga Global/Nutrisolo.',
+    subjectResume: 'A irrigação é a tecnologia com maior potencial de contribuir para o aumento da segurança alimentar e ambiental, bem como para a redução da fome e da pobreza, além de gerar grande número de empregos. Ela traz benefícios importantes relacionados à produção de alimentos, à geração de empregos, ao desenvolvimento social e ao meio ambiente. É uma tecnologia fundamental em qualquer planejamento estratégico dos estados e regiões.',
+    img: '/assets/img/speakers/fernandofoto.png',
+    customSize: '100%',
+    datentime: {
+      date: '17/04/2024 (Quarta)',
+      time: '19:00',
+      place: 'https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675704751?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d'
+    }
+  },
+
+    {
+    name: 'Heitor Giuliano Matioli Candido',
+    institution: 'Azul Linhas Aéreas',
+    speaking: 'Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas',
+    description: 'Coordenador de recrutamento de aeronáutas na Azul Linhas Aéreas.',
+    subjectResume: 'Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas',
+    img: '/assets/img/speakers/user-vector-man.jpg',
+    customSize: '100%',
+    datentime: {
+      date: '17/04/2024 (Quarta)',
+      time: '20:00',
+      place: 'https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1713177106593?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d'
+    }
+  },
+
+    {
     name: 'FELIPE CORREA VELOSO DOS SANTOS',
     institution: 'PUC-Goiás',
     speaking: 'Introdução ao Power BI',
