@@ -208,7 +208,7 @@ let Palestras = [
     title: "Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ",
     instructor: "Anne Louise de Melo Dores",
     /*institution: "xx",*/
-    desc: ` Palestrante: Anne Louise de Melo Dores, Palestrante Egressa do Curso de Engenharia Civil, realiza atualmente mestrado na Universidade de Stuttgart, na Alemanha. Irá tratar do tema: Os efeitos dos microplásticos em sedimentos de lagos e rios europeus.`,
+    desc: ` Palestrante Egressa do Curso de Engenharia Civil, realiza atualmente mestrado na Universidade de Stuttgart, na Alemanha. Irá tratar do tema: Os efeitos dos microplásticos em sedimentos de lagos e rios europeus.`,
     date: "18/04",
     time: '09:00',
     place: 'Online',
