@@ -129,13 +129,14 @@ let Palestras = [
   },
   
   {
-    title: "Lei Geral de Proteção de Dados, até que ponto a Inteligência Artificial pode me ajudar",
+    title: "",
     instructor: "Antônio Generoso",
     institution: "Consultor em LGPD",
     desc: `Apresentação a respeito da LGPD  com IA`,
     date: "18/04",
     time: '08:00-09:30',
     place: "Auditório 2, área II",
+    warning: "Lei Geral de Proteção de Dados, até que ponto a Inteligência Artificial pode me ajudar - CANCELADA",
   },
   
   {
