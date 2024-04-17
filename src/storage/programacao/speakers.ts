@@ -817,5 +817,33 @@ const speakers_jcpoli =
   },
 
   
+  {
+    name: 'Márcio Victor Trevisan',
+    institution: 'WORKSOLAR IMPORTAÇÃO E DISTRIBUIÇÃO',
+    speaking: 'Máquinas Síncronas: Conceitos básicos, princípios e funcionamento, aspectos construtivos, aplicabilidade.',
+    description: 'Mais de 15 anos de experiência na área empresarial, educacional e engenharia elétrica, tendo atuado em empresas multinacionais de grande porte como: Puc-Goiás, Enel X e WorkSolar; desenvolvendo atividades com foco em engenharia como: projetos elétricos, telecomunicações e usinas fotovoltaicas, data centers , redes de telecomunicações estruturadas em prédios comerciais e industriais, redes de energia estáveis e ininterruptas; pós-graduações em engenharia de controle e automação industrial e gestão de projetos e processos; planejamento, construção e implantação de áreas estratégicas de mercado e gestão de negócios, com resultados frutíferos alcançados. Experiência em negociação com stakeholders, tomadores de decisão para obtenção de condições comerciais favoráveis ao negócio; habilidade de negociação e bom relacionamento interpessoal; capacidade de lidar com mudanças e se adaptar a novas situações com alto grau de resiliência e senso de urgência; foco em superação de metas, tomada de decisão firme, planejada, rápida; concepção de normas técnicas para desenvolvimento de redes de distribuição rurais e urbanas; ABNT NBR 5410-Instalações Elétricas de Baixa Tensão e Normas Regulamentadoras NR-10-Segurança nas Instalações e outras normas técnicas na área de serviços elétricos ; sólida formação acadêmica, principalmente sou graduado em Engenharia Elétrica pela PUC de Goiás e graduado pela Faculdade Única e Pós Graduação do Brasil, complementando meu perfil.',
+    subjectResume: 'As máquinas síncronas são dispositivos eletromecânicos que convertem energia mecânica em energia elétrica de forma eficiente. Seu funcionamento baseia-se no princípio da sincronização entre o campo magnético girante do rotor e o campo magnético do estator. Comumente utilizadas em aplicações de geração e transmissão de energia elétrica, as máquinas síncronas oferecem alta eficiência e controle preciso de frequência e tensão. Seus principais componentes incluem o estator, onde está localizado o enrolamento da armadura, e o rotor, que possui enrolamento de campo. Aspectos construtivos como a geometria dos polos e a disposição dos enrolamentos são essenciais para o seu desempenho. Além disso, as máquinas síncronas encontram aplicabilidade em diversas áreas, desde geração de energia em usinas até propulsão de navios e veículos elétricos, destacando-se pela sua versatilidade e confiabilidade em diferentes cenários industriais e tecnológicos.',
+    img: '/assets/img/speakers/foto_MárcioVictorTrevisan.png',
+    customSize: '100%',
+    datentime: {
+      date: '17/04/2024 (Quarta)',
+      time: '08:00-09:30',
+      place: 'Auditório 1, área II'
+    }
+  },
 
+  {
+    name: 'Ricardo Vitoy',
+    institution: 'PUC Goiás',
+    speaking: 'Avaliação de máquinas, equipamentos e bens móveis',
+    description: 'Possui graduação em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1993) e mestrado em Engenharia Mecânica pela Universidade Federal de Santa Catarina (1998). Atualmente é consultor - MUSA INDÚSTRIA E COMÉRCIO DE ALIMENTOS LTDA, engenheiro - TRAVAGLIA ENGENHARIA LTDA, prof especialização em avaliações e perícias do Instituto de Pós-graduação e Graduação, professor de pós graduação do Instituto de Pós-graduação e Graduação, professor do Instituto Federal de Educação, Ciência e Tecnologia de Goiás e professor do ensino superior da Pontifícia Universidade Católica de Goiás. Tem experiência na área de Engenharia Mecânica, com ênfase em Engenharia Mecânica, atuando principalmente nos seguintes temas: avaliação, mecânica dos fluidos, projeto e processamento industrial.',
+    subjectResume: 'O minicurso abordará temas como custos direto e indireto de instalação, depreciação inicial e desmontagem, valor de equipamentos (sucata, econômico, uso e de risco). Classificação de máquinas, equipamentos, instalações e bens industriais em geral. Metodologia de avaliação de máquinas. Vagas limitadas: 20',
+    img: '/assets/img/speakers/ricardovitoy_LUCIANACASALETTI.jpeg',
+    customSize: '100%',
+    datentime: {
+      date: '17/04/2024 (Quarta)',
+      time: '08:30-12:00',
+      place: 'Laboratório: sala 002, bloco J, área III'
+    }
+  },
 ]
