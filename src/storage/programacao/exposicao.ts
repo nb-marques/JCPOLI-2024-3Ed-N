@@ -31,7 +31,7 @@ const Exposicao_Arquitetura = [
     desc: `Lançamento e discussão sobre o livro que será lançado.`,
     date: "18/04/2024 (Quinta)",
     time: "18:00",
-    place: "Auditório Mariza Roriz, área III",
+    place: "Auditório 2, área II",
     image: "assets/img/slider/Capa_do_livro_FREDERICO_ANDRE_RABE.jpeg"
   },
 

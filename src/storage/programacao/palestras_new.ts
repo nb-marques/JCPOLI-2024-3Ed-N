@@ -40,7 +40,7 @@ let Palestras = [
     desc: "Apresentação de parte da arquitetura realizada em Goiás durante os séculos XVIII, XIX e XX. Um panorama uniformizado graficamente através do olhar sobre cem edifícios. Organizando assim uma crônica da transformação da região por meio de suas edificações, demonstrando como foram espelho de um ideal político, social e arquitetônico que permeou a produção local.",
     date: "17/04",
     time: "19:00-20:30",
-    place: "Auditório Mariza Roriz, área III",
+    place: "Auditório 3, área II",
   },
   
   {
@@ -254,7 +254,7 @@ let Palestras = [
     Toma-se como referência para as reflexões as posturas dos vencedores com o contexto histórico permitindo indicar mudanças na produção e crítica arquitetônica associadas aos desafios do século XXI.`,
     date: "19/04",
     time: "08:00-09:30",
-    place: "Auditório Mariza Roriz, área III",
+    place: "Sala Multiuso, área IV",
     },
   
   {
@@ -318,7 +318,7 @@ let Palestras = [
     desc: `A pesquisa na graduação desempenha um importante papel no desenvolvimento acadêmico e profissional dos docentes e discentes. Ao se envolver em atividades de pesquisa, o aluno tem a possibilidade de aprofundar seu conhecimento sobre determinados temas, desenvolver habilidades de pensamento crítico, analítico e criativo, de forma estruturada e metódica. A presente oficina visa apresentar para toda a comunidade da Escola Politécnica e de Artes, as pesquisas que estão sendo realizadas nos cursos de arquitetura e urbanismo e design, permitindo assim a divulgação de novos conhecimentos e a necessária ampliação de debates entre pesquisadores, quer sejam eles professores ou alunos. `,
     date: "19/04",
     time: "10:00",
-    place: "Auditório Mariza Roriz, área III",
+    place: "Sala Multiuso, área IV",
     image: "assets/img/slider/oficina_FREDERICO_ANDRE_RABE.jpg"
   },
 

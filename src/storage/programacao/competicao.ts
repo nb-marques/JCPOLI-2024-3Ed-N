@@ -62,7 +62,7 @@ históricas da mulher nestes cenários.
   editais:"/assets/Edital Fotografia JCPOLI 2024.pdf",
   date: "18/04",
   time: "19:00",
-  place: "Auditório Mariza Roriz, área III",
+  place: "Auditório 2, área II",
   image: "assets/img/slider/fotografia_2024.jpg"
   },
 
