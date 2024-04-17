@@ -3,7 +3,6 @@ let CienciaEmCasa = [
     title: "Da Engenharia Mecatrônica à carreira de desenvolvedor de jogos no Canadá ",
     instructor: "Lavio Fidélis",
     /*institution: "xx",
-    desc: `xx`,*/
     date: "10/04",
     time: '21:00',
     place: 'Online',
