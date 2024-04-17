@@ -99,8 +99,8 @@ let Palestras = [
    {
     title: "Manejo da Irrigação ",
     instructor: "Fernando Rezende da Costa",
-    /*institution: "xx",
-    desc: `xx`,*/
+    institution: "Irriga Global/Nutrisolo",
+    desc: `A irrigação é a tecnologia com maior potencial de contribuir para o aumento da segurança alimentar e ambiental, bem como para a redução da fome e da pobreza, além de gerar grande número de empregos. Ela traz benefícios importantes relacionados à produção de alimentos, à geração de empregos, ao desenvolvimento social e ao meio ambiente. É uma tecnologia fundamental em qualquer planejamento estratégico dos estados e regiões.`,
     date: "17/04",
     time: '19:00',
     place: 'Online: Teams',
@@ -110,8 +110,8 @@ let Palestras = [
    {
     title: "Métodos de projeto sustentável ",
     instructor: "Halina Veloso e Zárate",
-    /*institution: "xx",
-    desc: `xx`,*/
+    /*institution: "xx",*/
+    desc: `Um panorama sobre a pesquisa de doutorado que investiga a integração de dados sobre carbono no processo de projeto de arquitetura, explorando métodos de projeto baseados em dados focados nos estágios iniciais do projeto. Esta pesquisa visa testar a transferibilidade de dados entre escalas de arquitetura e design urbano. Para isso, realiza uma investigação empírica com profissionais, adotando casos tangíveis e identificando os desafios e gargalos na interação entre dados de carbono incorporados, em escala de construção, e dados urbanos georreferenciados.`,
     date: "17/04",
     time: '08:00',
     place: 'Online: Teams',
@@ -195,8 +195,9 @@ let Palestras = [
    {
     title: "Customer Experience and Artificial Intelligence",
     instructor: "Patrícia Amaral",
-    /*institution: "xx",
-    desc: `xx`,*/
+    /*institution: "xx",*/
+    desc: `A experiência do cliente, enriquecida por jornadas bem desenhadas, serve como alavanca crucial para negócios ao criar interações personalizadas e memoráveis. Essa abordagem aumenta a satisfação e fidelidade, transformando clientes em defensores da marca, o que impulsiona a recompra e promove indicações, resultando em crescimento sustentável e maior rentabilidade. A IA está revolucionando a compreensão e interação com os dos clientes, tornando-a mais personalizada, eficiente e satisfatória. Entre novas tecnologias e modelos de negócios inovadores, vamos mergulhar
+    neste mundo IA e CX.`,
     date: "18/04",
     time: '20:30',
     place: 'Online',
@@ -206,8 +207,8 @@ let Palestras = [
    {
     title: "Os efeitos dos microplásticos em sedimentos de lagos e rios europeus ",
     instructor: "Anne Louise de Melo Dores",
-    /*institution: "xx",
-    desc: `xx`,*/
+    /*institution: "xx",*/
+    desc: ` Palestrante: Anne Louise de Melo Dores, Palestrante Egressa do Curso de Engenharia Civil, realiza atualmente mestrado na Universidade de Stuttgart, na Alemanha. Irá tratar do tema: Os efeitos dos microplásticos em sedimentos de lagos e rios europeus.`,
     date: "18/04",
     time: '09:00',
     place: 'Online',
@@ -348,8 +349,8 @@ let Palestras = [
    {
     title: "Harvesting rare earth elements and critical minerals from coal derived acid mine drainage",
     instructor: "Dr. Iuri Santos",
-    /*institution: "xx",
-    desc: `xx`,*/
+    /*institution: "xx",*/
+    desc: `Palestra: Harvesting rare earth elements and critical minerals from coal derived acid mine drainage.`,
     date: "19/04",
     time: '18:45',
     place: 'Online',
@@ -379,8 +380,8 @@ let Palestras = [
    {
     title: "Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas",
     instructor: "Heitor Giuliano Matioli Candido",
-    /*institution: "xx",
-    desc: `xx`,*/
+    institution: "Azul Linhas Aéreas",
+    desc: `Seleção e recrutamento de aeronáutas na Azul Linhas Aéreas`,
     date: "17/04",
     time: '20:00',
     place: 'Online: Teams',
@@ -623,15 +624,6 @@ let Palestras = [
     link: 'xx'
   },
   */
-
-  {
-    title: 'Métodos de projeto sustentável ',
-    instructor: 'Halina Veloso e Zárate',
-    date: '17/04',
-    time: '08:00',
-    place: 'Online: Teams',
-    link: "https://teams.microsoft.com/l/meetup-join/19%3adcb5856375ad4247a353459a1d1f6306%40thread.tacv2/1712675999891?context=%7b%22Tid%22%3a%2273319f42-8908-4b89-9f8d-558cf4d5d776%22%2c%22Oid%22%3a%2272de42cb-2066-4981-b6e6-af2344b756bd%22%7d"
-  },
   /*
   {
     title: "Avaliação de máquinas, equipamentos e bens móveis",
