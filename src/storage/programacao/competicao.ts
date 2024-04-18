@@ -28,21 +28,7 @@ serão discutidas.
 <br>Data: 18/04, 20 às 21h
 <br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
-<br><b>4.Palestra "Por que somos minoria em STEM?"</b>
-<br>Marta Pereira da Luz
-<br>Título: Por que somos minoria em STEM?
-<br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
-participação de mulheres em áreas de STEM e será discutido sobre as questões
-históricas da mulher nestes cenários.
-<br>Data: 19/04, 21 às 22h
-<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
-<br>
-<br><b>5.	Curso introdutório de análise da dados com Linguagem Pyhton </b>
-<br>Data: 19/04/2024
-<br>Horário: 21:00-22:00
-<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
-<br>
-<br><b>6.	Palestra "Entendendo a Inteligência Artificial Generativa e Seu Impacto no Futuro" </b>
+<br><b>4.	Palestra "Entendendo a Inteligência Artificial Generativa e Seu Impacto no Futuro" </b>
 <br>Salatiel Abrão (Ciência da Computação)
 <br>Título: Entendendo a Inteligência Artificial Generativa e Seu Impacto no Futuro
 <br>Resumo:A inteligência artificial tem se desenvolvido rapidamente nos últimos anos, 
@@ -53,6 +39,20 @@ Esse recurso é especialmente valioso em ambientes corporativos e decisórios, o
 O que o futuro reserva? Como ficarão os empregos diante dessas mudanças.
 <br>Data: 19/04/2024
 <br>Horário: 19:00-20:00
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
+<br>
+<br><b>5.Palestra "Por que somos minoria em STEM?"</b>
+<br>Marta Pereira da Luz
+<br>Título: Por que somos minoria em STEM?
+<br>Resumo: Na palestra será tratado sobre a realidade do mercado de trabalho e sobre a
+participação de mulheres em áreas de STEM e será discutido sobre as questões
+históricas da mulher nestes cenários.
+<br>Data: 19/04, 21 às 22h
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
+<br>
+<br><b>6.	Curso introdutório de análise da dados com Linguagem Pyhton </b>
+<br>Data: 19/04/2024
+<br>Horário: 21:00-22:00
 <br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
 <br><a href="https://forms.office.com/r/F7w9cbRKbD">Link de inscrição, prazo de 8/4 a 18/4</a>
