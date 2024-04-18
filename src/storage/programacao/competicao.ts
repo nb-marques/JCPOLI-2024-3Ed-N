@@ -42,6 +42,19 @@ históricas da mulher nestes cenários.
 <br>Horário: 21:00-22:00
 <br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
 <br>
+<br><b>6.	Palestra "Entendendo a Inteligência Artificial Generativa e Seu Impacto no Futuro" </b>
+<br>Salatiel Abrão (Ciência da Computação)
+<br>Título: Entendendo a Inteligência Artificial Generativa e Seu Impacto no Futuro
+<br>Resumo:A inteligência artificial tem se desenvolvido rapidamente nos últimos anos, 
+trazendo consigo uma revolução em termos de capacidade generativa. Como uma inteligência artificial consegue criar imagens, 
+vídeos e áudios realistas? Além disso, surgem questões importantes como o impacto dos deepfakes na imagem pessoal. 
+Recentemente, também se observa avanços significativos na capacidade da IA de processar grandes volumes de texto e gerar recomendações concisas. 
+Esse recurso é especialmente valioso em ambientes corporativos e decisórios, onde a rápida análise e síntese de informações podem ser cruciais. 
+O que o futuro reserva? Como ficarão os empregos diante dessas mudanças.
+<br>Data: 19/04/2024
+<br>Horário: 19:00-20:00
+<br>Local: <a href="https://teams.microsoft.com/l/team/19%3aHcrIGbRxMtaHnfgMUryabS_UEfdjPkoLxnMLYskgZ3k1%40thread.tacv2/conversations?groupId=9eb3658f-e5d0-4b9a-afcf-dcfbf5a8d97e&tenantId=73319f42-8908-4b89-9f8d-558cf4d5d776">Link da sala do Teams</a>
+<br>
 <br><a href="https://forms.office.com/r/F7w9cbRKbD">Link de inscrição, prazo de 8/4 a 18/4</a>
 `,
   inscrevase:"https://forms.office.com/r/F7w9cbRKbD",
