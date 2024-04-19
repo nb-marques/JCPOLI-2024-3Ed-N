@@ -1,7 +1,34 @@
 <template>
   <div class="obs-page view">
-    <Main>
+    <PhotoHeader
+      :title="title"
+      :description="description"
+      :image="background"
+      offset="calc((-150/500)*100vw + 67.304015296px)"
+    ></PhotoHeader>
 
+    <head>
+      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+      <meta http-equiv="Pragma" content="no-cache">
+      <meta http-equiv="Expires" content="0">
+    </head>
+
+    <Main>
+      <h3>Apresentação dos artigos aprovados para a III JCPOLI</h3>
+      <div class="button-container">
+        <button class="button" v-on:click="clearFilter">Todas as datas</button>
+        <button class="button" v-on:click="filterArtigos">22/04/2024</button>
+        <!-- Adicione mais botões para outras datas aqui -->
+      </div>
+      <div class="artigos-list">
+        <div v-for="(props, index) in filtered_artigos" :key="index">
+          <div v-for="(artigo, index) in props.artigos" :key="index">
+            <p>{{ artigo.horario }} - Título: {{ artigo.title }} - Autor: {{ artigo.autor }}</p>
+            <p>Local: <a :href="artigo.local" target="_blank">Online</a></p>
+            <hr />
+          </div>
+        </div>
+      </div>
       <h3>Publicação de livro</h3>
       <table>
         <tbody>
@@ -90,10 +117,15 @@
 import { Component, Vue, Prop } from 'vue-property-decorator'
 import Main from '../components/organization/Main.vue'
 import { Anais, Anais2, Anais3, livros } from '@/storage/programacao/anais'
+import { Artigos_Aprovados } from '@/storage/programacao/apresentacao_artigos'
+import PhotoHeader from '../components/organization/PhotoHeader.vue'
+import MiniCourse from '../components/speeches/index.vue'
 
 @Component({
   components: {
-    Main
+    PhotoHeader,
+    Main,
+    MiniCourse
   }
 })
 export default class anais extends Vue {
@@ -101,8 +133,12 @@ export default class anais extends Vue {
   private all_anais2: any
   private all_anais3: any
   private all_livros: any
+  private all_artigos: any
+  private filtered_artigos: any
 
   private title = 'Anais'
+  private description = ''
+  private background = 'assets/img/slider/6.jpg'
 
 
   constructor() {
@@ -112,6 +148,22 @@ export default class anais extends Vue {
     this.all_anais2 = Anais2
     this.all_anais3 = Anais3
     this.all_livros = livros
+    this.all_artigos = Artigos_Aprovados
+    this.filtered_artigos = this.all_artigos
+  }
+
+  filterArtigos(e) {
+    let data = e.target.innerText
+    this.filtered_artigos = this.all_artigos.map(item => {
+      let artigos = item.artigos.filter(aux => {
+        return aux.data == data
+      })
+      return { ...item, artigos }
+    })
+  }
+
+  clearFilter() {
+    this.filtered_artigos = this.all_artigos
   }
 }
 </script>
